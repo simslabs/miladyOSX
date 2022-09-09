@@ -1,0 +1,87 @@
+* {
+    font-family: helvetica;
+  }
+  
+  #avatarSection {
+    position: relative;
+    margin: auto;
+    height:625px;
+    width:500px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #4a4a4a;
+    background-color: lightblue;
+    border-width: thick;
+  }
+  
+  .avi img {
+    visibility: hidden;
+    position:absolute;
+    width: 500px;
+    height: 625px;
+  }
+
+  img {
+    width: 500px;
+    height: 625px;
+  }
+  
+  canvas {
+    position:absolute;
+  }
+  
+  button {
+    min-width: 15%;
+    padding: 10px 5px;
+    border: 2px;
+    background: lightgreen;
+    color: darkgreen;
+    border-radius: 5px;
+    font-family: tahoma;
+    margin:5px;
+  }
+  
+  #randomButton {
+    background: pink;
+    display:block;
+    color:darkred;
+    margin-top: 1em;
+    margin-left:auto;
+    margin-right:auto;
+  }
+  
+  .menu {
+    display:block;
+    min-width: 40%;
+    width:auto;
+    margin:auto;
+  }
+  
+  .style-category__label {
+    min-width:15%;
+    font-weight: bold;
+    padding: 10px;
+  }
+  
+  .style-category{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  body{
+      min-height: 98vh;
+      display: flex;
+      flex-direction: column;
+  }
+  footer{
+      margin-top: auto;
+  }
+  
+  #links {
+    color:gray;
+    width:500px;;
+    display:block;
+    position:relative;
+    /* margin:auto; */
+    font-size: .8rem;
+  }

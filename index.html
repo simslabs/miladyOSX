@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<script src ="index.js"></script>
+<link rel="stylesheet" href="index.css"/>
+
+<body>
+  <div class="container" style="display: flex; height:1000px;";>
+    <div style="width:40%; background: transparent;">
+      <section class="avi" id="avatarSection">
+
+        <canvas id="avatarCanvas" height="625px" width="500px"alt="Custom Milady Maker"/>
+
+        <img src="assets/wardrobes/background/blue boutique.png" id="background-1" class="background"/>
+
+        <img src="assets/wardrobes/aura/aphroditian_neptune.png" id="aura-aphroditian_neptune" class="auras"/>
+        
+        <img src="assets/wardrobes/race/pale.png" id="race-pale" class="race"/>
+
+        <img src="assets/wardrobes/eyes/alien.png" id="eyes-alien" class="eyes"/>
+        <img src="assets/wardrobes/eyes/aqueous.png" id="eyes-aqueous" class="eyes"/>
+        <img src="assets/wardrobes/eyes/bug.png" id="eyes-bug" class="eyes"/>
+        <img src="assets/wardrobes/eyes/gold.png" id="eyes-gold" class="eyes"/>
+        <img src="assets/wardrobes/eyes/leaf_hearts.png" id="eyes-leaf_hearts" class="eyes"/>
+
+        <img src="assets/wardrobes/hair/brown bowl hair.png" id="hair-brown_bowl" class="hairstyles"/>
+
+        <img src="assets/wardrobes/mouth/smile.png" id="mouth-smile" class="mouths"/>
+
+      </section>
+    </div>
+    <div style="flex-grow: 1; background: transparent;">
+      <div class = "menu">
+        <div class="style-category" id = "background">
+          <span class="style-category__label">
+            background
+          </span>
+          <button type="button" onClick="toggleVisibility('background-1');"> blue boutique </button>
+        </div>
+          <div class="style-category" id="auras">
+            <span class="style-category__label">
+              aura
+            </span>
+            <button type="button" onClick="toggleVisibility('aura-aphroditian_neptune');"> aphroditian_neptune </button>
+          </div>
+          <div class="style-category" id="race">
+            <span class="style-category__label">
+              race
+            </span>
+            <button type="button" onClick="toggleVisibility('race-pale');"> pale </button>
+          </div>
+          <div class="style-category" id="eyes">
+          <span class="style-category__label">
+            eyes
+          </span>
+          <button type="button" onClick="toggleVisibility('eyes-alien');"> alien </button>
+          <button type="button" onClick="toggleVisibility('eyes-aqueous');"> aqueous </button>
+          <button type="button" onClick="toggleVisibility('eyes-bug');"> bug </button>
+          <button type="button" onClick="toggleVisibility('eyes-gold');"> gold </button>
+          <button type="button" onClick="toggleVisibility('eyes-leaf_hearts');"> leaf_hearts </button>
+        </div>
+        <div class="style-category" id="hairstyles">
+          <span class="style-category__label">
+            hair
+          </span>
+          <button type="button" onClick="toggleVisibility('hair-brown_bowl');"> brown_bowl </button>
+        </div>
+        <div class="style-category" id="mouths">
+          <span class="style-category__label">
+            mouth
+          </span>
+          <button type="button" onClick="toggleVisibility('mouth-smile');"> smile </button>
+        </div>
+        <button id="randomButton" type="button" onClick="randomizeAvatar()"> Random </button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
