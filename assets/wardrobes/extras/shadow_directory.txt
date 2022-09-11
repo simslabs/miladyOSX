@@ -1,0 +1,7 @@
+[
+	{
+		"fileName": "stoge.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/5FSMjr4ontsxUxmDjoKH1b6VBMHsaFw6Vcj1WE3CrGiJ/stoge.png"
+	}
+]

@@ -28,7 +28,7 @@ function redrawAvatar(){
   avatar.forEach((element) => {
     if(element.className == 'background') sortedAvatar[0]=element
     else if(element.className =='auras') sortedAvatar[1]=element
-    else if(element.className == 'race') sortedAvatar[2]=element
+    else if(element.className == 'skin') sortedAvatar[2]=element
     else if(element.className == 'shirt') sortedAvatar[3]=element
     else if(element.className == 'necklace') sortedAvatar[4]=element
     else if(element.className == 'mouths') sortedAvatar[5]=element

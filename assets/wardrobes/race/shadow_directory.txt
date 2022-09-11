@@ -1,0 +1,32 @@
+[
+	{
+		"fileName": "alien.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/alien.png"
+	},
+	{
+		"fileName": "brown.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/brown.png"
+	},
+	{
+		"fileName": "clay.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/clay.png"
+	},
+	{
+		"fileName": "pale.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/pale.png"
+	},
+	{
+		"fileName": "pink.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/pink.png"
+	},
+	{
+		"fileName": "tan.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/tan.png"
+	}
+]

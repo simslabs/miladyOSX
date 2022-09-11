@@ -1,0 +1,2902 @@
+[
+	{
+		"fileName": "aphroditian_adventurous.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_adventurous.png"
+	},
+	{
+		"fileName": "aphroditian_alcyone.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_alcyone.png"
+	},
+	{
+		"fileName": "aphroditian_altruistic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_altruistic.png"
+	},
+	{
+		"fileName": "aphroditian_arizona.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_arizona.png"
+	},
+	{
+		"fileName": "aphroditian_artheaux.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_artheaux.png"
+	},
+	{
+		"fileName": "aphroditian_asterope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_asterope.png"
+	},
+	{
+		"fileName": "aphroditian_baroque_sunburst.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_baroque_sunburst.png"
+	},
+	{
+		"fileName": "aphroditian_benevolent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_benevolent.png"
+	},
+	{
+		"fileName": "aphroditian_bimbo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_bimbo.png"
+	},
+	{
+		"fileName": "aphroditian_bisexual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_bisexual.png"
+	},
+	{
+		"fileName": "aphroditian_bright.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_bright.png"
+	},
+	{
+		"fileName": "aphroditian_burnt_amber.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_burnt_amber.png"
+	},
+	{
+		"fileName": "aphroditian_calm.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_calm.png"
+	},
+	{
+		"fileName": "aphroditian_celaeno.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_celaeno.png"
+	},
+	{
+		"fileName": "aphroditian_compassionate.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_compassionate.png"
+	},
+	{
+		"fileName": "aphroditian_cursed.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_cursed.png"
+	},
+	{
+		"fileName": "aphroditian_dark_1.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_1.png"
+	},
+	{
+		"fileName": "aphroditian_dark_2.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_2.png"
+	},
+	{
+		"fileName": "aphroditian_dark_3.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_3.png"
+	},
+	{
+		"fileName": "aphroditian_dark_4.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_4.png"
+	},
+	{
+		"fileName": "aphroditian_dark_5.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_5.png"
+	},
+	{
+		"fileName": "aphroditian_dark_6.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_6.png"
+	},
+	{
+		"fileName": "aphroditian_dark_7.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_7.png"
+	},
+	{
+		"fileName": "aphroditian_dark_magician.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_magician.png"
+	},
+	{
+		"fileName": "aphroditian_devilish.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_devilish.png"
+	},
+	{
+		"fileName": "aphroditian_dragon_ener.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dragon_ener.png"
+	},
+	{
+		"fileName": "aphroditian_druid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_druid.png"
+	},
+	{
+		"fileName": "aphroditian_earth.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_earth.png"
+	},
+	{
+		"fileName": "aphroditian_effervescent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_effervescent.png"
+	},
+	{
+		"fileName": "aphroditian_electra.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_electra.png"
+	},
+	{
+		"fileName": "aphroditian_electric_samurai-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_electric_samurai-(don_t-use).png"
+	},
+	{
+		"fileName": "aphroditian_elegant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_elegant.png"
+	},
+	{
+		"fileName": "aphroditian_emo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_emo.png"
+	},
+	{
+		"fileName": "aphroditian_ethereal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_ethereal.png"
+	},
+	{
+		"fileName": "aphroditian_evil.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_evil.png"
+	},
+	{
+		"fileName": "aphroditian_fervent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_fervent.png"
+	},
+	{
+		"fileName": "aphroditian_gay.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_gay.png"
+	},
+	{
+		"fileName": "aphroditian_gentle.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_gentle.png"
+	},
+	{
+		"fileName": "aphroditian_hipster.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_hipster.png"
+	},
+	{
+		"fileName": "aphroditian_horny.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_horny.png"
+	},
+	{
+		"fileName": "aphroditian_hot.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_hot.png"
+	},
+	{
+		"fileName": "aphroditian_intoxicating.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_intoxicating.png"
+	},
+	{
+		"fileName": "aphroditian_italian.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_italian.png"
+	},
+	{
+		"fileName": "aphroditian_jade_mcd.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_jade_mcd.png"
+	},
+	{
+		"fileName": "aphroditian_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_jazz.png"
+	},
+	{
+		"fileName": "aphroditian_jupiter.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_jupiter.png"
+	},
+	{
+		"fileName": "aphroditian_ketamine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_ketamine.png"
+	},
+	{
+		"fileName": "aphroditian_laptop.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_laptop.png"
+	},
+	{
+		"fileName": "aphroditian_limewire.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_limewire.png"
+	},
+	{
+		"fileName": "aphroditian_maia.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_maia.png"
+	},
+	{
+		"fileName": "aphroditian_mars.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_mars.png"
+	},
+	{
+		"fileName": "aphroditian_mcdonalds.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_mcdonalds.png"
+	},
+	{
+		"fileName": "aphroditian_mercury.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_mercury.png"
+	},
+	{
+		"fileName": "aphroditian_merope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_merope.png"
+	},
+	{
+		"fileName": "aphroditian_mid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_mid.png"
+	},
+	{
+		"fileName": "aphroditian_neptune.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_neptune.png"
+	},
+	{
+		"fileName": "aphroditian_nightcore_clown.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_nightcore_clown.png"
+	},
+	{
+		"fileName": "aphroditian_nightcore_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_nightcore_jazz.png"
+	},
+	{
+		"fileName": "aphroditian_nightcore_sunset.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_nightcore_sunset.png"
+	},
+	{
+		"fileName": "aphroditian_orange-(don't-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_orange-(don't-use).png"
+	},
+	{
+		"fileName": "aphroditian_pastoral.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_pastoral.png"
+	},
+	{
+		"fileName": "aphroditian_patriotic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_patriotic.png"
+	},
+	{
+		"fileName": "aphroditian_popular.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_popular.png"
+	},
+	{
+		"fileName": "aphroditian_prideful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_prideful.png"
+	},
+	{
+		"fileName": "aphroditian_psychic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_psychic.png"
+	},
+	{
+		"fileName": "aphroditian_queen.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_queen.png"
+	},
+	{
+		"fileName": "aphroditian_radiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_radiant.png"
+	},
+	{
+		"fileName": "aphroditian_regal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_regal.png"
+	},
+	{
+		"fileName": "aphroditian_retarded.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_retarded.png"
+	},
+	{
+		"fileName": "aphroditian_rothgro.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_rothgro.png"
+	},
+	{
+		"fileName": "aphroditian_sage.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_sage.png"
+	},
+	{
+		"fileName": "aphroditian_sanguine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_sanguine.png"
+	},
+	{
+		"fileName": "aphroditian_saturn.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_saturn.png"
+	},
+	{
+		"fileName": "aphroditian_schizo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_schizo.png"
+	},
+	{
+		"fileName": "aphroditian_shaman.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_shaman.png"
+	},
+	{
+		"fileName": "aphroditian_shy.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_shy.png"
+	},
+	{
+		"fileName": "aphroditian_snake.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_snake.png"
+	},
+	{
+		"fileName": "aphroditian_soft_magic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_soft_magic.png"
+	},
+	{
+		"fileName": "aphroditian_spunky.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_spunky.png"
+	},
+	{
+		"fileName": "aphroditian_stoic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_stoic.png"
+	},
+	{
+		"fileName": "aphroditian_sublime.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_sublime.png"
+	},
+	{
+		"fileName": "aphroditian_tactical.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_tactical.png"
+	},
+	{
+		"fileName": "aphroditian_taygeta.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_taygeta.png"
+	},
+	{
+		"fileName": "aphroditian_trad.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_trad.png"
+	},
+	{
+		"fileName": "aphroditian_twink.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_twink.png"
+	},
+	{
+		"fileName": "aphroditian_ukraine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_ukraine.png"
+	},
+	{
+		"fileName": "aphroditian_unusual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_unusual.png"
+	},
+	{
+		"fileName": "aphroditian_valiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_valiant.png"
+	},
+	{
+		"fileName": "aphroditian_vengeful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_vengeful.png"
+	},
+	{
+		"fileName": "aphroditian_venus.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_venus.png"
+	},
+	{
+		"fileName": "aphroditian_vespertine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_vespertine.png"
+	},
+	{
+		"fileName": "aphroditian_warrior_poet-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_warrior_poet-(don_t-use).png"
+	},
+	{
+		"fileName": "aphroditian_wicked.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_wicked.png"
+	},
+	{
+		"fileName": "aphroditian_wise.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_wise.png"
+	},
+	{
+		"fileName": "aphroditian_xerox.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_xerox.png"
+	},
+	{
+		"fileName": "aphroditian_young_thug.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_young_thug.png"
+	},
+	{
+		"fileName": "aphroditian_zestful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_zestful.png"
+	},
+	{
+		"fileName": "apollonian_adventurous.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_adventurous.png"
+	},
+	{
+		"fileName": "apollonian_alcyone.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_alcyone.png"
+	},
+	{
+		"fileName": "apollonian_altruistic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_altruistic.png"
+	},
+	{
+		"fileName": "apollonian_arizona.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_arizona.png"
+	},
+	{
+		"fileName": "apollonian_artheaux.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_artheaux.png"
+	},
+	{
+		"fileName": "apollonian_asterope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_asterope.png"
+	},
+	{
+		"fileName": "apollonian_baroque_sunburst.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_baroque_sunburst.png"
+	},
+	{
+		"fileName": "apollonian_benevolent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_benevolent.png"
+	},
+	{
+		"fileName": "apollonian_bimbo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_bimbo.png"
+	},
+	{
+		"fileName": "apollonian_bisexual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_bisexual.png"
+	},
+	{
+		"fileName": "apollonian_bright.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_bright.png"
+	},
+	{
+		"fileName": "apollonian_burnt_amber.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_burnt_amber.png"
+	},
+	{
+		"fileName": "apollonian_calm.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_calm.png"
+	},
+	{
+		"fileName": "apollonian_celaeno.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_celaeno.png"
+	},
+	{
+		"fileName": "apollonian_compassionate.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_compassionate.png"
+	},
+	{
+		"fileName": "apollonian_cursed.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_cursed.png"
+	},
+	{
+		"fileName": "apollonian_dark_1.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_1.png"
+	},
+	{
+		"fileName": "apollonian_dark_2.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_2.png"
+	},
+	{
+		"fileName": "apollonian_dark_3.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_3.png"
+	},
+	{
+		"fileName": "apollonian_dark_4.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_4.png"
+	},
+	{
+		"fileName": "apollonian_dark_5.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_5.png"
+	},
+	{
+		"fileName": "apollonian_dark_6.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_6.png"
+	},
+	{
+		"fileName": "apollonian_dark_7.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_7.png"
+	},
+	{
+		"fileName": "apollonian_dark_magician.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_magician.png"
+	},
+	{
+		"fileName": "apollonian_devilish.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_devilish.png"
+	},
+	{
+		"fileName": "apollonian_dragon_ener.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dragon_ener.png"
+	},
+	{
+		"fileName": "apollonian_dreamer.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dreamer.png"
+	},
+	{
+		"fileName": "apollonian_druid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_druid.png"
+	},
+	{
+		"fileName": "apollonian_earth.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_earth.png"
+	},
+	{
+		"fileName": "apollonian_effervescent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_effervescent.png"
+	},
+	{
+		"fileName": "apollonian_electra.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_electra.png"
+	},
+	{
+		"fileName": "apollonian_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_electric_samurai.png"
+	},
+	{
+		"fileName": "apollonian_elegant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_elegant.png"
+	},
+	{
+		"fileName": "apollonian_emo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_emo.png"
+	},
+	{
+		"fileName": "apollonian_ethereal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_ethereal.png"
+	},
+	{
+		"fileName": "apollonian_evil.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_evil.png"
+	},
+	{
+		"fileName": "apollonian_fervent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_fervent.png"
+	},
+	{
+		"fileName": "apollonian_gay.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_gay.png"
+	},
+	{
+		"fileName": "apollonian_gentle.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_gentle.png"
+	},
+	{
+		"fileName": "apollonian_hipster.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_hipster.png"
+	},
+	{
+		"fileName": "apollonian_horny.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_horny.png"
+	},
+	{
+		"fileName": "apollonian_hot.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_hot.png"
+	},
+	{
+		"fileName": "apollonian_intoxicating.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_intoxicating.png"
+	},
+	{
+		"fileName": "apollonian_italian.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_italian.png"
+	},
+	{
+		"fileName": "apollonian_jade_mcd.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_jade_mcd.png"
+	},
+	{
+		"fileName": "apollonian_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_jazz.png"
+	},
+	{
+		"fileName": "apollonian_jupiter.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_jupiter.png"
+	},
+	{
+		"fileName": "apollonian_ketamine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_ketamine.png"
+	},
+	{
+		"fileName": "apollonian_laptop.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_laptop.png"
+	},
+	{
+		"fileName": "apollonian_limewire.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_limewire.png"
+	},
+	{
+		"fileName": "apollonian_maia.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_maia.png"
+	},
+	{
+		"fileName": "apollonian_mars.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_mars.png"
+	},
+	{
+		"fileName": "apollonian_mcdonalds.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_mcdonalds.png"
+	},
+	{
+		"fileName": "apollonian_mercury.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_mercury.png"
+	},
+	{
+		"fileName": "apollonian_merope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_merope.png"
+	},
+	{
+		"fileName": "apollonian_mid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_mid.png"
+	},
+	{
+		"fileName": "apollonian_neptune.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_neptune.png"
+	},
+	{
+		"fileName": "apollonian_nightcore_clown.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_nightcore_clown.png"
+	},
+	{
+		"fileName": "apollonian_nightcore_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_nightcore_jazz.png"
+	},
+	{
+		"fileName": "apollonian_nightcore_sunset.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_nightcore_sunset.png"
+	},
+	{
+		"fileName": "apollonian_orange.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_orange.png"
+	},
+	{
+		"fileName": "apollonian_pastoral.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_pastoral.png"
+	},
+	{
+		"fileName": "apollonian_patriotic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_patriotic.png"
+	},
+	{
+		"fileName": "apollonian_popular.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_popular.png"
+	},
+	{
+		"fileName": "apollonian_prideful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_prideful.png"
+	},
+	{
+		"fileName": "apollonian_psychic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_psychic.png"
+	},
+	{
+		"fileName": "apollonian_queen.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_queen.png"
+	},
+	{
+		"fileName": "apollonian_radiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_radiant.png"
+	},
+	{
+		"fileName": "apollonian_regal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_regal.png"
+	},
+	{
+		"fileName": "apollonian_retarded.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_retarded.png"
+	},
+	{
+		"fileName": "apollonian_rothgro.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_rothgro.png"
+	},
+	{
+		"fileName": "apollonian_sage.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_sage.png"
+	},
+	{
+		"fileName": "apollonian_sanguine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_sanguine.png"
+	},
+	{
+		"fileName": "apollonian_saturn.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_saturn.png"
+	},
+	{
+		"fileName": "apollonian_schizo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_schizo.png"
+	},
+	{
+		"fileName": "apollonian_shy.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_shy.png"
+	},
+	{
+		"fileName": "apollonian_snake.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_snake.png"
+	},
+	{
+		"fileName": "apollonian_soft_magic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_soft_magic.png"
+	},
+	{
+		"fileName": "apollonian_spunky.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_spunky.png"
+	},
+	{
+		"fileName": "apollonian_stoic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_stoic.png"
+	},
+	{
+		"fileName": "apollonian_sublime.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_sublime.png"
+	},
+	{
+		"fileName": "apollonian_tactical.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_tactical.png"
+	},
+	{
+		"fileName": "apollonian_taygeta.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_taygeta.png"
+	},
+	{
+		"fileName": "apollonian_trad.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_trad.png"
+	},
+	{
+		"fileName": "apollonian_twink.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_twink.png"
+	},
+	{
+		"fileName": "apollonian_ukraine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_ukraine.png"
+	},
+	{
+		"fileName": "apollonian_unusual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_unusual.png"
+	},
+	{
+		"fileName": "apollonian_valiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_valiant.png"
+	},
+	{
+		"fileName": "apollonian_vengeful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_vengeful.png"
+	},
+	{
+		"fileName": "apollonian_venus.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_venus.png"
+	},
+	{
+		"fileName": "apollonian_vespertine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_vespertine.png"
+	},
+	{
+		"fileName": "apollonian_warrior_poet.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_warrior_poet.png"
+	},
+	{
+		"fileName": "apollonian_wicked.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_wicked.png"
+	},
+	{
+		"fileName": "apollonian_wise.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_wise.png"
+	},
+	{
+		"fileName": "apollonian_xerox.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_xerox.png"
+	},
+	{
+		"fileName": "apollonian_young_thug.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_young_thug.png"
+	},
+	{
+		"fileName": "apollonian_zestful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_zestful.png"
+	},
+	{
+		"fileName": "areian_adventurous.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_adventurous.png"
+	},
+	{
+		"fileName": "areian_alcyone.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_alcyone.png"
+	},
+	{
+		"fileName": "areian_altruistic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_altruistic.png"
+	},
+	{
+		"fileName": "areian_arizona.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_arizona.png"
+	},
+	{
+		"fileName": "areian_artheaux.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_artheaux.png"
+	},
+	{
+		"fileName": "areian_asterope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_asterope.png"
+	},
+	{
+		"fileName": "areian_baroque_sunburst.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_baroque_sunburst.png"
+	},
+	{
+		"fileName": "areian_benevolent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_benevolent.png"
+	},
+	{
+		"fileName": "areian_bimbo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_bimbo.png"
+	},
+	{
+		"fileName": "areian_bisexual-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_bisexual-(don_t-use).png"
+	},
+	{
+		"fileName": "areian_bright-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_bright-(don_t-use).png"
+	},
+	{
+		"fileName": "areian_burnt_amber.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_burnt_amber.png"
+	},
+	{
+		"fileName": "areian_calm.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_calm.png"
+	},
+	{
+		"fileName": "areian_celaeno.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_celaeno.png"
+	},
+	{
+		"fileName": "areian_compassionate.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_compassionate.png"
+	},
+	{
+		"fileName": "areian_cursed.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_cursed.png"
+	},
+	{
+		"fileName": "areian_dark_1.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_1.png"
+	},
+	{
+		"fileName": "areian_dark_2.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_2.png"
+	},
+	{
+		"fileName": "areian_dark_3.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_3.png"
+	},
+	{
+		"fileName": "areian_dark_4.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_4.png"
+	},
+	{
+		"fileName": "areian_dark_5.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_5.png"
+	},
+	{
+		"fileName": "areian_dark_6.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_6.png"
+	},
+	{
+		"fileName": "areian_dark_7.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_7.png"
+	},
+	{
+		"fileName": "areian_dark_magician.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dark_magician.png"
+	},
+	{
+		"fileName": "areian_devilish.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_devilish.png"
+	},
+	{
+		"fileName": "areian_dragon_ener.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dragon_ener.png"
+	},
+	{
+		"fileName": "areian_dreamer.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_dreamer.png"
+	},
+	{
+		"fileName": "areian_druid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_druid.png"
+	},
+	{
+		"fileName": "areian_earth.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_earth.png"
+	},
+	{
+		"fileName": "areian_effervescent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_effervescent.png"
+	},
+	{
+		"fileName": "areian_electra.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_electra.png"
+	},
+	{
+		"fileName": "areian_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_electric_samurai.png"
+	},
+	{
+		"fileName": "areian_elegant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_elegant.png"
+	},
+	{
+		"fileName": "areian_emo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_emo.png"
+	},
+	{
+		"fileName": "areian_ethereal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_ethereal.png"
+	},
+	{
+		"fileName": "areian_evil.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_evil.png"
+	},
+	{
+		"fileName": "areian_fervent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_fervent.png"
+	},
+	{
+		"fileName": "areian_gay.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_gay.png"
+	},
+	{
+		"fileName": "areian_gentle.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_gentle.png"
+	},
+	{
+		"fileName": "areian_hipster.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_hipster.png"
+	},
+	{
+		"fileName": "areian_horny.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_horny.png"
+	},
+	{
+		"fileName": "areian_hot.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_hot.png"
+	},
+	{
+		"fileName": "areian_intoxicating.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_intoxicating.png"
+	},
+	{
+		"fileName": "areian_italian.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_italian.png"
+	},
+	{
+		"fileName": "areian_jade_mcd.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_jade_mcd.png"
+	},
+	{
+		"fileName": "areian_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_jazz.png"
+	},
+	{
+		"fileName": "areian_jupiter.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_jupiter.png"
+	},
+	{
+		"fileName": "areian_ketamine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_ketamine.png"
+	},
+	{
+		"fileName": "areian_laptop.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_laptop.png"
+	},
+	{
+		"fileName": "areian_limewire.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_limewire.png"
+	},
+	{
+		"fileName": "areian_maia.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_maia.png"
+	},
+	{
+		"fileName": "areian_mars.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_mars.png"
+	},
+	{
+		"fileName": "areian_mcdonalds.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_mcdonalds.png"
+	},
+	{
+		"fileName": "areian_mercury.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_mercury.png"
+	},
+	{
+		"fileName": "areian_merope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_merope.png"
+	},
+	{
+		"fileName": "areian_mid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_mid.png"
+	},
+	{
+		"fileName": "areian_neptune.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_neptune.png"
+	},
+	{
+		"fileName": "areian_nightcore_clown.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_nightcore_clown.png"
+	},
+	{
+		"fileName": "areian_nightcore_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_nightcore_jazz.png"
+	},
+	{
+		"fileName": "areian_nightcore_sunset.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_nightcore_sunset.png"
+	},
+	{
+		"fileName": "areian_orange.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_orange.png"
+	},
+	{
+		"fileName": "areian_pastoral.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_pastoral.png"
+	},
+	{
+		"fileName": "areian_patriotic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_patriotic.png"
+	},
+	{
+		"fileName": "areian_popular.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_popular.png"
+	},
+	{
+		"fileName": "areian_prideful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_prideful.png"
+	},
+	{
+		"fileName": "areian_psychic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_psychic.png"
+	},
+	{
+		"fileName": "areian_queen.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_queen.png"
+	},
+	{
+		"fileName": "areian_radiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_radiant.png"
+	},
+	{
+		"fileName": "areian_regal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_regal.png"
+	},
+	{
+		"fileName": "areian_retarded.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_retarded.png"
+	},
+	{
+		"fileName": "areian_rothgro.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_rothgro.png"
+	},
+	{
+		"fileName": "areian_sage.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_sage.png"
+	},
+	{
+		"fileName": "areian_sanguine-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_sanguine-(don_t-use).png"
+	},
+	{
+		"fileName": "areian_saturn.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_saturn.png"
+	},
+	{
+		"fileName": "areian_schizo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_schizo.png"
+	},
+	{
+		"fileName": "areian_shaman.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_shaman.png"
+	},
+	{
+		"fileName": "areian_shy.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_shy.png"
+	},
+	{
+		"fileName": "areian_snake.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_snake.png"
+	},
+	{
+		"fileName": "areian_soft_magic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_soft_magic.png"
+	},
+	{
+		"fileName": "areian_spunky.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_spunky.png"
+	},
+	{
+		"fileName": "areian_stoic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_stoic.png"
+	},
+	{
+		"fileName": "areian_sublime.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_sublime.png"
+	},
+	{
+		"fileName": "areian_tactical.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_tactical.png"
+	},
+	{
+		"fileName": "areian_taygeta.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_taygeta.png"
+	},
+	{
+		"fileName": "areian_trad.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_trad.png"
+	},
+	{
+		"fileName": "areian_twink.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_twink.png"
+	},
+	{
+		"fileName": "areian_ukraine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_ukraine.png"
+	},
+	{
+		"fileName": "areian_unusual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_unusual.png"
+	},
+	{
+		"fileName": "areian_valiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_valiant.png"
+	},
+	{
+		"fileName": "areian_vengeful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_vengeful.png"
+	},
+	{
+		"fileName": "areian_venus.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_venus.png"
+	},
+	{
+		"fileName": "areian_vespertine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_vespertine.png"
+	},
+	{
+		"fileName": "areian_warrior_poet.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_warrior_poet.png"
+	},
+	{
+		"fileName": "areian_wicked.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_wicked.png"
+	},
+	{
+		"fileName": "areian_wise.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_wise.png"
+	},
+	{
+		"fileName": "areian_xerox.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_xerox.png"
+	},
+	{
+		"fileName": "areian_young_thug.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_young_thug.png"
+	},
+	{
+		"fileName": "areian_zestful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/areian_zestful.png"
+	},
+	{
+		"fileName": "artemian_adventurous.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_adventurous.png"
+	},
+	{
+		"fileName": "artemian_alcyone.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_alcyone.png"
+	},
+	{
+		"fileName": "artemian_altruistic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_altruistic.png"
+	},
+	{
+		"fileName": "artemian_arizona.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_arizona.png"
+	},
+	{
+		"fileName": "artemian_artheaux.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_artheaux.png"
+	},
+	{
+		"fileName": "artemian_asterope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_asterope.png"
+	},
+	{
+		"fileName": "artemian_baroque_sunburst.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_baroque_sunburst.png"
+	},
+	{
+		"fileName": "artemian_benevolent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_benevolent.png"
+	},
+	{
+		"fileName": "artemian_bimbo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_bimbo.png"
+	},
+	{
+		"fileName": "artemian_bisexual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_bisexual.png"
+	},
+	{
+		"fileName": "artemian_bright.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_bright.png"
+	},
+	{
+		"fileName": "artemian_burnt_amber.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_burnt_amber.png"
+	},
+	{
+		"fileName": "artemian_calm.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_calm.png"
+	},
+	{
+		"fileName": "artemian_celaeno.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_celaeno.png"
+	},
+	{
+		"fileName": "artemian_compassionate.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_compassionate.png"
+	},
+	{
+		"fileName": "artemian_cursed.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_cursed.png"
+	},
+	{
+		"fileName": "artemian_dark_1.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_1.png"
+	},
+	{
+		"fileName": "artemian_dark_2.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_2.png"
+	},
+	{
+		"fileName": "artemian_dark_3.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_3.png"
+	},
+	{
+		"fileName": "artemian_dark_4.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_4.png"
+	},
+	{
+		"fileName": "artemian_dark_5.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_5.png"
+	},
+	{
+		"fileName": "artemian_dark_6.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_6.png"
+	},
+	{
+		"fileName": "artemian_dark_7.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_7.png"
+	},
+	{
+		"fileName": "artemian_dark_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_electric_samurai.png"
+	},
+	{
+		"fileName": "artemian_dark_magician.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dark_magician.png"
+	},
+	{
+		"fileName": "artemian_dragon_ener.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dragon_ener.png"
+	},
+	{
+		"fileName": "artemian_dreamer.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_dreamer.png"
+	},
+	{
+		"fileName": "artemian_druid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_druid.png"
+	},
+	{
+		"fileName": "artemian_earth.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_earth.png"
+	},
+	{
+		"fileName": "artemian_effervescent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_effervescent.png"
+	},
+	{
+		"fileName": "artemian_electra.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_electra.png"
+	},
+	{
+		"fileName": "artemian_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_electric_samurai.png"
+	},
+	{
+		"fileName": "artemian_elegant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_elegant.png"
+	},
+	{
+		"fileName": "artemian_emo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_emo.png"
+	},
+	{
+		"fileName": "artemian_ethereal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_ethereal.png"
+	},
+	{
+		"fileName": "artemian_evil.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_evil.png"
+	},
+	{
+		"fileName": "artemian_fervent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_fervent.png"
+	},
+	{
+		"fileName": "artemian_gay.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_gay.png"
+	},
+	{
+		"fileName": "artemian_gentle.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_gentle.png"
+	},
+	{
+		"fileName": "artemian_hipster.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_hipster.png"
+	},
+	{
+		"fileName": "artemian_horny.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_horny.png"
+	},
+	{
+		"fileName": "artemian_hot.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_hot.png"
+	},
+	{
+		"fileName": "artemian_intoxicating.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_intoxicating.png"
+	},
+	{
+		"fileName": "artemian_italian.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_italian.png"
+	},
+	{
+		"fileName": "artemian_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_jazz.png"
+	},
+	{
+		"fileName": "artemian_jupiter.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_jupiter.png"
+	},
+	{
+		"fileName": "artemian_ketamine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_ketamine.png"
+	},
+	{
+		"fileName": "artemian_laptop.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_laptop.png"
+	},
+	{
+		"fileName": "artemian_limewire.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_limewire.png"
+	},
+	{
+		"fileName": "artemian_maia.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_maia.png"
+	},
+	{
+		"fileName": "artemian_mars.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_mars.png"
+	},
+	{
+		"fileName": "artemian_mercury.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_mercury.png"
+	},
+	{
+		"fileName": "artemian_merope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_merope.png"
+	},
+	{
+		"fileName": "artemian_mid-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_mid-(don_t-use).png"
+	},
+	{
+		"fileName": "artemian_neptune.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_neptune.png"
+	},
+	{
+		"fileName": "artemian_nightcore_clown.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_nightcore_clown.png"
+	},
+	{
+		"fileName": "artemian_nightcore_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_nightcore_jazz.png"
+	},
+	{
+		"fileName": "artemian_nightcore_sunset.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_nightcore_sunset.png"
+	},
+	{
+		"fileName": "artemian_orange.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_orange.png"
+	},
+	{
+		"fileName": "artemian_pastoral.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_pastoral.png"
+	},
+	{
+		"fileName": "artemian_patriotic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_patriotic.png"
+	},
+	{
+		"fileName": "artemian_popular.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_popular.png"
+	},
+	{
+		"fileName": "artemian_prideful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_prideful.png"
+	},
+	{
+		"fileName": "artemian_psychic-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_psychic-(don_t-use).png"
+	},
+	{
+		"fileName": "artemian_queen.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_queen.png"
+	},
+	{
+		"fileName": "artemian_radiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_radiant.png"
+	},
+	{
+		"fileName": "artemian_regal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_regal.png"
+	},
+	{
+		"fileName": "artemian_retarded.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_retarded.png"
+	},
+	{
+		"fileName": "artemian_rothgro.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_rothgro.png"
+	},
+	{
+		"fileName": "artemian_sage.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_sage.png"
+	},
+	{
+		"fileName": "artemian_sanguine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_sanguine.png"
+	},
+	{
+		"fileName": "artemian_saturn.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_saturn.png"
+	},
+	{
+		"fileName": "artemian_schizo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_schizo.png"
+	},
+	{
+		"fileName": "artemian_shy.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_shy.png"
+	},
+	{
+		"fileName": "artemian_snake.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_snake.png"
+	},
+	{
+		"fileName": "artemian_soft_magic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_soft_magic.png"
+	},
+	{
+		"fileName": "artemian_spunky.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_spunky.png"
+	},
+	{
+		"fileName": "artemian_stoic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_stoic.png"
+	},
+	{
+		"fileName": "artemian_sublime.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_sublime.png"
+	},
+	{
+		"fileName": "artemian_tactical.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_tactical.png"
+	},
+	{
+		"fileName": "artemian_taygeta.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_taygeta.png"
+	},
+	{
+		"fileName": "artemian_trad.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_trad.png"
+	},
+	{
+		"fileName": "artemian_twink.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_twink.png"
+	},
+	{
+		"fileName": "artemian_ukraine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_ukraine.png"
+	},
+	{
+		"fileName": "artemian_unusual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_unusual.png"
+	},
+	{
+		"fileName": "artemian_valiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_valiant.png"
+	},
+	{
+		"fileName": "artemian_vengeful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_vengeful.png"
+	},
+	{
+		"fileName": "artemian_venus.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_venus.png"
+	},
+	{
+		"fileName": "artemian_vespertine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_vespertine.png"
+	},
+	{
+		"fileName": "artemian_warrior_poet.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_warrior_poet.png"
+	},
+	{
+		"fileName": "artemian_wicked.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_wicked.png"
+	},
+	{
+		"fileName": "artemian_wise.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_wise.png"
+	},
+	{
+		"fileName": "artemian_xerox.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_xerox.png"
+	},
+	{
+		"fileName": "artemian_young_thug.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_young_thug.png"
+	},
+	{
+		"fileName": "artemian_zestful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/artemian_zestful.png"
+	},
+	{
+		"fileName": "dionysian_adventurous.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_adventurous.png"
+	},
+	{
+		"fileName": "dionysian_alcyone.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_alcyone.png"
+	},
+	{
+		"fileName": "dionysian_altruistic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_altruistic.png"
+	},
+	{
+		"fileName": "dionysian_arizona.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_arizona.png"
+	},
+	{
+		"fileName": "dionysian_artheaux.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_artheaux.png"
+	},
+	{
+		"fileName": "dionysian_asterope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_asterope.png"
+	},
+	{
+		"fileName": "dionysian_barque_sunburst.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_barque_sunburst.png"
+	},
+	{
+		"fileName": "dionysian_benevolent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_benevolent.png"
+	},
+	{
+		"fileName": "dionysian_bimbo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_bimbo.png"
+	},
+	{
+		"fileName": "dionysian_bisexual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_bisexual.png"
+	},
+	{
+		"fileName": "dionysian_bright-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_bright-(don_t-use).png"
+	},
+	{
+		"fileName": "dionysian_burnt_amber.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_burnt_amber.png"
+	},
+	{
+		"fileName": "dionysian_calm.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_calm.png"
+	},
+	{
+		"fileName": "dionysian_celaeno.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_celaeno.png"
+	},
+	{
+		"fileName": "dionysian_compassionate.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_compassionate.png"
+	},
+	{
+		"fileName": "dionysian_cursed.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_cursed.png"
+	},
+	{
+		"fileName": "dionysian_dark_1.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_1.png"
+	},
+	{
+		"fileName": "dionysian_dark_2.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_2.png"
+	},
+	{
+		"fileName": "dionysian_dark_3.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_3.png"
+	},
+	{
+		"fileName": "dionysian_dark_4.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_4.png"
+	},
+	{
+		"fileName": "dionysian_dark_5.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_5.png"
+	},
+	{
+		"fileName": "dionysian_dark_6.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_6.png"
+	},
+	{
+		"fileName": "dionysian_dark_7.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_7.png"
+	},
+	{
+		"fileName": "dionysian_dark_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_electric_samurai.png"
+	},
+	{
+		"fileName": "dionysian_dark_magician.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dark_magician.png"
+	},
+	{
+		"fileName": "dionysian_devilish.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_devilish.png"
+	},
+	{
+		"fileName": "dionysian_dragon_ener.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dragon_ener.png"
+	},
+	{
+		"fileName": "dionysian_dreamer.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_dreamer.png"
+	},
+	{
+		"fileName": "dionysian_druid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_druid.png"
+	},
+	{
+		"fileName": "dionysian_earth.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_earth.png"
+	},
+	{
+		"fileName": "dionysian_effervescent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_effervescent.png"
+	},
+	{
+		"fileName": "dionysian_electra.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_electra.png"
+	},
+	{
+		"fileName": "dionysian_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_electric_samurai.png"
+	},
+	{
+		"fileName": "dionysian_elegant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_elegant.png"
+	},
+	{
+		"fileName": "dionysian_emo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_emo.png"
+	},
+	{
+		"fileName": "dionysian_ethereal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_ethereal.png"
+	},
+	{
+		"fileName": "dionysian_evil.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_evil.png"
+	},
+	{
+		"fileName": "dionysian_fervent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_fervent.png"
+	},
+	{
+		"fileName": "dionysian_gay.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_gay.png"
+	},
+	{
+		"fileName": "dionysian_gentle.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_gentle.png"
+	},
+	{
+		"fileName": "dionysian_horny.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_horny.png"
+	},
+	{
+		"fileName": "dionysian_hot.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_hot.png"
+	},
+	{
+		"fileName": "dionysian_intoxicating-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_intoxicating-(don_t-use).png"
+	},
+	{
+		"fileName": "dionysian_italian.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_italian.png"
+	},
+	{
+		"fileName": "dionysian_jade_mcd.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_jade_mcd.png"
+	},
+	{
+		"fileName": "dionysian_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_jazz.png"
+	},
+	{
+		"fileName": "dionysian_jupiter.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_jupiter.png"
+	},
+	{
+		"fileName": "dionysian_ketamine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_ketamine.png"
+	},
+	{
+		"fileName": "dionysian_laptop.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_laptop.png"
+	},
+	{
+		"fileName": "dionysian_limewire.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_limewire.png"
+	},
+	{
+		"fileName": "dionysian_maia.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_maia.png"
+	},
+	{
+		"fileName": "dionysian_mars.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_mars.png"
+	},
+	{
+		"fileName": "dionysian_mcdonalds.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_mcdonalds.png"
+	},
+	{
+		"fileName": "dionysian_mercury.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_mercury.png"
+	},
+	{
+		"fileName": "dionysian_merope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_merope.png"
+	},
+	{
+		"fileName": "dionysian_mid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_mid.png"
+	},
+	{
+		"fileName": "dionysian_neptune.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_neptune.png"
+	},
+	{
+		"fileName": "dionysian_nightcore_clown.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_nightcore_clown.png"
+	},
+	{
+		"fileName": "dionysian_nightcore_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_nightcore_jazz.png"
+	},
+	{
+		"fileName": "dionysian_nightcore_sunset.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_nightcore_sunset.png"
+	},
+	{
+		"fileName": "dionysian_orange.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_orange.png"
+	},
+	{
+		"fileName": "dionysian_pastoral.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_pastoral.png"
+	},
+	{
+		"fileName": "dionysian_patriotic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_patriotic.png"
+	},
+	{
+		"fileName": "dionysian_popular.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_popular.png"
+	},
+	{
+		"fileName": "dionysian_prideful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_prideful.png"
+	},
+	{
+		"fileName": "dionysian_psychic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_psychic.png"
+	},
+	{
+		"fileName": "dionysian_queen.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_queen.png"
+	},
+	{
+		"fileName": "dionysian_radiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_radiant.png"
+	},
+	{
+		"fileName": "dionysian_regal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_regal.png"
+	},
+	{
+		"fileName": "dionysian_retarded.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_retarded.png"
+	},
+	{
+		"fileName": "dionysian_sage.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_sage.png"
+	},
+	{
+		"fileName": "dionysian_sanguine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_sanguine.png"
+	},
+	{
+		"fileName": "dionysian_saturn.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_saturn.png"
+	},
+	{
+		"fileName": "dionysian_schizo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_schizo.png"
+	},
+	{
+		"fileName": "dionysian_shy.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_shy.png"
+	},
+	{
+		"fileName": "dionysian_snake.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_snake.png"
+	},
+	{
+		"fileName": "dionysian_soft_magic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_soft_magic.png"
+	},
+	{
+		"fileName": "dionysian_spunky.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_spunky.png"
+	},
+	{
+		"fileName": "dionysian_stoic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_stoic.png"
+	},
+	{
+		"fileName": "dionysian_sublime.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_sublime.png"
+	},
+	{
+		"fileName": "dionysian_tactical.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_tactical.png"
+	},
+	{
+		"fileName": "dionysian_taygeta.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_taygeta.png"
+	},
+	{
+		"fileName": "dionysian_trad.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_trad.png"
+	},
+	{
+		"fileName": "dionysian_twink.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_twink.png"
+	},
+	{
+		"fileName": "dionysian_ukraine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_ukraine.png"
+	},
+	{
+		"fileName": "dionysian_unusual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_unusual.png"
+	},
+	{
+		"fileName": "dionysian_valiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_valiant.png"
+	},
+	{
+		"fileName": "dionysian_vengeful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_vengeful.png"
+	},
+	{
+		"fileName": "dionysian_venus.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_venus.png"
+	},
+	{
+		"fileName": "dionysian_vespertine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_vespertine.png"
+	},
+	{
+		"fileName": "dionysian_warrior_poet.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_warrior_poet.png"
+	},
+	{
+		"fileName": "dionysian_wicked-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_wicked-(don_t-use).png"
+	},
+	{
+		"fileName": "dionysian_wise.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_wise.png"
+	},
+	{
+		"fileName": "dionysian_xerox.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_xerox.png"
+	},
+	{
+		"fileName": "dionysian_young_thug.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_young_thug.png"
+	},
+	{
+		"fileName": "dionysian_zestful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/dionysian_zestful.png"
+	},
+	{
+		"fileName": "hermian_adventurous.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_adventurous.png"
+	},
+	{
+		"fileName": "hermian_alcyone.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_alcyone.png"
+	},
+	{
+		"fileName": "hermian_altruistic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_altruistic.png"
+	},
+	{
+		"fileName": "hermian_arizona.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_arizona.png"
+	},
+	{
+		"fileName": "hermian_artheaux.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_artheaux.png"
+	},
+	{
+		"fileName": "hermian_asterope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_asterope.png"
+	},
+	{
+		"fileName": "hermian_baroque_sunburst.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_baroque_sunburst.png"
+	},
+	{
+		"fileName": "hermian_benevolent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_benevolent.png"
+	},
+	{
+		"fileName": "hermian_bimbo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_bimbo.png"
+	},
+	{
+		"fileName": "hermian_bisexual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_bisexual.png"
+	},
+	{
+		"fileName": "hermian_bright.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_bright.png"
+	},
+	{
+		"fileName": "hermian_burnt_amber.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_burnt_amber.png"
+	},
+	{
+		"fileName": "hermian_calm.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_calm.png"
+	},
+	{
+		"fileName": "hermian_celaeno.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_celaeno.png"
+	},
+	{
+		"fileName": "hermian_compassionate.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_compassionate.png"
+	},
+	{
+		"fileName": "hermian_cursed.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_cursed.png"
+	},
+	{
+		"fileName": "hermian_dark_1.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_1.png"
+	},
+	{
+		"fileName": "hermian_dark_2.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_2.png"
+	},
+	{
+		"fileName": "hermian_dark_3.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_3.png"
+	},
+	{
+		"fileName": "hermian_dark_4.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_4.png"
+	},
+	{
+		"fileName": "hermian_dark_5.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_5.png"
+	},
+	{
+		"fileName": "hermian_dark_6.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_6.png"
+	},
+	{
+		"fileName": "hermian_dark_7.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_7.png"
+	},
+	{
+		"fileName": "hermian_dark_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_electric_samurai.png"
+	},
+	{
+		"fileName": "hermian_dark_magician.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dark_magician.png"
+	},
+	{
+		"fileName": "hermian_devilish.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_devilish.png"
+	},
+	{
+		"fileName": "hermian_dragon_ener.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dragon_ener.png"
+	},
+	{
+		"fileName": "hermian_dreamer.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_dreamer.png"
+	},
+	{
+		"fileName": "hermian_druid.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_druid.png"
+	},
+	{
+		"fileName": "hermian_earth.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_earth.png"
+	},
+	{
+		"fileName": "hermian_effervescent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_effervescent.png"
+	},
+	{
+		"fileName": "hermian_electra.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_electra.png"
+	},
+	{
+		"fileName": "hermian_electric_samurai.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_electric_samurai.png"
+	},
+	{
+		"fileName": "hermian_elegant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_elegant.png"
+	},
+	{
+		"fileName": "hermian_emo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_emo.png"
+	},
+	{
+		"fileName": "hermian_ethereal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_ethereal.png"
+	},
+	{
+		"fileName": "hermian_evil.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_evil.png"
+	},
+	{
+		"fileName": "hermian_fervent.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_fervent.png"
+	},
+	{
+		"fileName": "hermian_gay.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_gay.png"
+	},
+	{
+		"fileName": "hermian_gentle.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_gentle.png"
+	},
+	{
+		"fileName": "hermian_hipster.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_hipster.png"
+	},
+	{
+		"fileName": "hermian_horny.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_horny.png"
+	},
+	{
+		"fileName": "hermian_hot.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_hot.png"
+	},
+	{
+		"fileName": "hermian_intoxicating-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_intoxicating-(don_t-use).png"
+	},
+	{
+		"fileName": "hermian_italian.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_italian.png"
+	},
+	{
+		"fileName": "hermian_jade_mcd.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_jade_mcd.png"
+	},
+	{
+		"fileName": "hermian_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_jazz.png"
+	},
+	{
+		"fileName": "hermian_jupiter.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_jupiter.png"
+	},
+	{
+		"fileName": "hermian_ketamine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_ketamine.png"
+	},
+	{
+		"fileName": "hermian_laptop.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_laptop.png"
+	},
+	{
+		"fileName": "hermian_limewire.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_limewire.png"
+	},
+	{
+		"fileName": "hermian_maia.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_maia.png"
+	},
+	{
+		"fileName": "hermian_mars.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_mars.png"
+	},
+	{
+		"fileName": "hermian_mercury.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_mercury.png"
+	},
+	{
+		"fileName": "hermian_merope.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_merope.png"
+	},
+	{
+		"fileName": "hermian_mid-(don_t-use).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_mid-(don_t-use).png"
+	},
+	{
+		"fileName": "hermian_neptune.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_neptune.png"
+	},
+	{
+		"fileName": "hermian_nightcore_clown.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_nightcore_clown.png"
+	},
+	{
+		"fileName": "hermian_nightcore_jazz.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_nightcore_jazz.png"
+	},
+	{
+		"fileName": "hermian_nightcore_sunset.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_nightcore_sunset.png"
+	},
+	{
+		"fileName": "hermian_orange.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_orange.png"
+	},
+	{
+		"fileName": "hermian_pastoral.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_pastoral.png"
+	},
+	{
+		"fileName": "hermian_patriotic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_patriotic.png"
+	},
+	{
+		"fileName": "hermian_popular.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_popular.png"
+	},
+	{
+		"fileName": "hermian_prideful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_prideful.png"
+	},
+	{
+		"fileName": "hermian_psychic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_psychic.png"
+	},
+	{
+		"fileName": "hermian_queen.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_queen.png"
+	},
+	{
+		"fileName": "hermian_radiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_radiant.png"
+	},
+	{
+		"fileName": "hermian_regal.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_regal.png"
+	},
+	{
+		"fileName": "hermian_retarded.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_retarded.png"
+	},
+	{
+		"fileName": "hermian_sage.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_sage.png"
+	},
+	{
+		"fileName": "hermian_sanguine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_sanguine.png"
+	},
+	{
+		"fileName": "hermian_saturn.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_saturn.png"
+	},
+	{
+		"fileName": "hermian_schizo.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_schizo.png"
+	},
+	{
+		"fileName": "hermian_shy.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_shy.png"
+	},
+	{
+		"fileName": "hermian_snake.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_snake.png"
+	},
+	{
+		"fileName": "hermian_soft_magic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_soft_magic.png"
+	},
+	{
+		"fileName": "hermian_spunky.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_spunky.png"
+	},
+	{
+		"fileName": "hermian_stoic.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_stoic.png"
+	},
+	{
+		"fileName": "hermian_sublime.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_sublime.png"
+	},
+	{
+		"fileName": "hermian_tactical.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_tactical.png"
+	},
+	{
+		"fileName": "hermian_taygeta.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_taygeta.png"
+	},
+	{
+		"fileName": "hermian_trad.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_trad.png"
+	},
+	{
+		"fileName": "hermian_twink.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_twink.png"
+	},
+	{
+		"fileName": "hermian_ukraine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_ukraine.png"
+	},
+	{
+		"fileName": "hermian_unusual.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_unusual.png"
+	},
+	{
+		"fileName": "hermian_valiant.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_valiant.png"
+	},
+	{
+		"fileName": "hermian_vengeful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_vengeful.png"
+	},
+	{
+		"fileName": "hermian_venus.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_venus.png"
+	},
+	{
+		"fileName": "hermian_vespertine.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_vespertine.png"
+	},
+	{
+		"fileName": "hermian_warrior_poet.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_warrior_poet.png"
+	},
+	{
+		"fileName": "hermian_wicked.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_wicked.png"
+	},
+	{
+		"fileName": "hermian_wise.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_wise.png"
+	},
+	{
+		"fileName": "hermian_young_thug.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_young_thug.png"
+	},
+	{
+		"fileName": "hermian_zestful.png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/hermian_zestful.png"
+	},
+	{
+		"fileName": "luminescent-(bruno-1_1).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/luminescent-(bruno-1_1).png"
+	},
+	{
+		"fileName": "mihad (charlie 1_1).png",
+		"status": "Uploaded.",
+		"location": "https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/mihad%20(charlie%201_1).png"
+	}
+]
