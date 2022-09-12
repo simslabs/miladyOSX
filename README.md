@@ -24,7 +24,7 @@ A more detailed description about the overall design process of Milady Maker can
 ### Current Progress of Asset Aggregation :gem:
 
 |                       | 'Shadow Drive'                                                                                          | 'Milady Sonoro' |   'Milady Aura' |   'Customs' |
-|-----------------------|:-------------------------------------------------------------------------------------------------------:|:---------------:|:---------------:|:-----------:|
+|-----------------------|---------------------------------------------------------------------------------------------------------|:---------------:|:---------------:|:-----------:|
 | L0: Background        |https://cryptostraps.tools/shadow-drive/files?storageAccount=5AUZL2xHAy6GWHap4EYuaNCWUaMjFV3k3ochzk5b8MHD|  0/16           |                 |   1         |
 | L1: Aura              |https://cryptostraps.tools/shadow-drive/files?storageAccount=BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6|                 |   580/580       |             |
 | L2: Skin Color        |https://cryptostraps.tools/shadow-drive/files?storageAccount=8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq|  6/6            |                 |             |

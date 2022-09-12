@@ -4,11 +4,10 @@
 <link rel="stylesheet" href="index.css"/>
 
 <body>
-  <div class="container" style="display: flex; height:1000px;";>
-    <div style="width:50%; height: 1000; background: transparent;">
+  <div class="grid-container";>
+    <div class="grid-child 1"; background: gray;">
       <h1>My Dress Up Milady Maker Demo v1.0.1</h1>
       <section class="avi" id="avatarSection">
-
         <canvas id="avatarCanvas" height="625px" width="625px"alt="Custom Milady Maker"/>
 
         <img src="https://shdw-drive.genesysgo.net/5AUZL2xHAy6GWHap4EYuaNCWUaMjFV3k3ochzk5b8MHD/blue%20boutique.png" id="background-1" class="background"/>
@@ -111,237 +110,204 @@
         <img src="https://shdw-drive.genesysgo.net/CFpBYrfxHCK8EeT3uHRtFsFA5AvNaufyzYyiFPLBaccx/fuzz%20earmuffs.png" id="hat-fuzz_earmuffs" class="hat"/>
 
         <img src="https://shdw-drive.genesysgo.net/5FSMjr4ontsxUxmDjoKH1b6VBMHsaFw6Vcj1WE3CrGiJ/stoge.png" id="extras-stoge" class="extras"/>
-
-        
-
       </section>
       <div><button id="randomButton" type="button" onClick="randomizeAvatar()"> Random </button></div>
       <div><button id="randomButton" type="button" onClick="randomizeAvatar()"> Download </button></div>
       <div><button id="randomButton" type="button" onClick="randomizeAvatar()"> Permanently Save </button></div>
     </div>
-    <div style="flex-grow: 1; height: 1000; background: transparent;">
-      <div class = "menu">
-        <div class="style-category" id = "background">
-          <div style="width:10%; height: 1500; background: transparent;">
-          <span class="style-category__label">
-            background
-          </span>
+    <div class="grid-child 2"; background: transparent;">
+      <div class="style-category" id = "background">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Backgrounds </span>
+          <div class="slides">
+            <div id="background-1"><button type="button" onClick="toggleVisibility('background-1');"> blue boutique </button></div>
+          </div>
         </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('background-1');"> blue boutique </button>
+      </div>
+      <div class="style-category" id="auras">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Auras </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_1');" > aphroditian red </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_2');" > aphroditian orange </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_3');" > aphroditian yellow </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_4');" > aphroditian green </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_5');" > aphroditian blue </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_6');" > aphroditian purple </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_7');" > aphroditian pink </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_hipster');" > aphroditian hipster </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_neptune');" > aphroditian neptune </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_1');" > apollonian red </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_2');" > apollonian orange </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_3');" > apollonian yellow </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_4');" > apollonian green </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_5');" > apollonian blue </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_6');" > apollonian purple </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_7');" > apollonian pink </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_hipster');" > apollonian hipster </button></div>
+            <div><button type="button" onClick="toggleVisibility('aura-apollonian_neptune');" > apollonian neptune </button></div>
+          </div>
         </div>
+      </div>
+      <div class="style-category" id="skin">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Skin Tones </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('skin-pale');"> pale </button></div>
+            <div><button type="button" onClick="toggleVisibility('skin-alien');"> alien </button></div>
+            <div><button type="button" onClick="toggleVisibility('skin-brown');"> brown </button></div>
+            <div><button type="button" onClick="toggleVisibility('skin-clay');"> clay </button></div>
+            <div><button type="button" onClick="toggleVisibility('skin-pink');"> pink </button></div>
+            <div><button type="button" onClick="toggleVisibility('skin-tan');"> tan </button></div>
+          </div>
         </div>
-          <div class="style-category" id="auras">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-              aura
-            </span>
+      </div>
+      <div class="style-category" id="shirt">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Shirts and Tops </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('shirt-punk_rock');"> punk rock </button></div>
+            <div><button type="button" onClick="toggleVisibility('shirt-jesus_tank');"> jesus tank </button></div>
+            <div><button type="button" onClick="toggleVisibility('shirt-red_puffer');"> red puffer </button></div>
+            <div><button type="button" onClick="toggleVisibility('shirt-sweater_tie');"> sweater tie </button></div>
+            <div><button type="button" onClick="toggleVisibility('shirt-ribbon_lolita');"> ribbon lolita </button></div>
+          </div>
+        </div>
+      </div>
+      <div class="style-category" id="necklace">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Necklaces </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('necklace-girl');"> girl </button></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="grid-child 3"; background: transparent;">
+      <div class="style-category" id="mouths">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Mouths </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('mouth-smile');"> smile </button></div>
+            <div><button type="button" onClick="toggleVisibility('mouth-cheeky');"> cheeky </button></div>
+            <div><button type="button" onClick="toggleVisibility('mouth-flat');"> flat </button></div>
+          </div>
+        </div>
+      </div>
+        <div class="style-category" id="lens">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Eye Lens Color </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('lens-green');"> green </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-black');"> black </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-blue');"> blue </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-brown');"> brown </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-fuschia');"> fuschia </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-gray');"> gray </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-green_blue');"> green blue </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-hazel');"> hazel </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-light_blue');"> light blue </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-peach');"> peach </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-pink_tan');"> pink tan </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-red');"> red </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-sunshine');"> sunshine </button></div>
+            <div><button type="button" onClick="toggleVisibility('lens-white');"> white </button></div>
+          </div>
+        </div>
+      </div>
+        <div class="style-category" id="eyes">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Eye Types </span>
+            <div class="slides">
+              <div><button type="button" onClick="toggleVisibility('eyes-classic');"> classic </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-sparkle');"> sparkle </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-teary');"> teary </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-alien');"> alien </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-amber');"> amber </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-aqueous');"> aqueous </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-black_ceramic');"> black ceramic </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-black_spiral');"> black spiral </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-bug');"> bug </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-glowing');"> glowing </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-gold');"> gold </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-gray');"> gray </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-leaf_hearts');"> leaf_hearts </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-lilac_hearts');"> lilac hearts </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-red_tv_hearts');"> red tv hearts </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-sleepy');"> sleepy </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-spectral');"> spectral </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-tv_hearts');"> tv hearts </button></div>
+              <div><button type="button" onClick="toggleVisibility('eyes-white_spiral');"> white spiral </button></div>
             </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <br>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_dark_1');" > aphroditian red </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_dark_2');" > aphroditian orange </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_dark_3');" > aphroditian yellow </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_dark_4');" > aphroditian green </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_dark_5');" > aphroditian blue </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_dark_6');" > aphroditian purple </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_dark_7');" > aphroditian pink </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_hipster');" > aphroditian hipster </button>
-            <button type="button" onClick="toggleVisibility('aura-aphroditian_neptune');" > aphroditian neptune </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_dark_1');" > apollonian red </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_dark_2');" > apollonian orange </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_dark_3');" > apollonian yellow </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_dark_4');" > apollonian green </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_dark_5');" > apollonian blue </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_dark_6');" > apollonian purple </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_dark_7');" > apollonian pink </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_hipster');" > apollonian hipster </button>
-            <button type="button" onClick="toggleVisibility('aura-apollonian_neptune');" > apollonian neptune </button>
           </div>
-          </div>
-          <div class="style-category" id="skin">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-              skin
-            </span>
-            </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('skin-pale');"> pale </button>
-          <button type="button" onClick="toggleVisibility('skin-alien');"> alien </button>
-          <button type="button" onClick="toggleVisibility('skin-brown');"> brown </button>
-          <button type="button" onClick="toggleVisibility('skin-clay');"> clay </button>
-          <button type="button" onClick="toggleVisibility('skin-pink');"> pink </button>
-          <button type="button" onClick="toggleVisibility('skin-tan');"> tan </button>
-          </div>
-          </div>
-          <div class="style-category" id="shirt">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-              shirt
-            </span>
-            </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-            <button type="button" onClick="toggleVisibility('shirt-punk_rock');"> punk rock </button>
-            <button type="button" onClick="toggleVisibility('shirt-jesus_tank');"> jesus tank </button>
-            <button type="button" onClick="toggleVisibility('shirt-red_puffer');"> red puffer </button>
-            <button type="button" onClick="toggleVisibility('shirt-sweater_tie');"> sweater tie </button>
-            <button type="button" onClick="toggleVisibility('shirt-ribbon_lolita');"> ribbon lolita </button>
-          </div>
-          </div>
-          <div class="style-category" id="necklace">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-              necklace
-            </span>
-            </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-            <button type="button" onClick="toggleVisibility('necklace-girl');"> girl </button>
-          </div>
-          </div>
-          <div class="style-category" id="mouths">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-              mouth
-            </span>
-            </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('mouth-smile');"> smile </button>
-          <button type="button" onClick="toggleVisibility('mouth-cheeky');"> cheeky </button>
-          <button type="button" onClick="toggleVisibility('mouth-flat');"> flat </button>
-          </div>
-          </div>
-          <div class="style-category" id="lens">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-              lens
-            </span>
-            </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <br>
-          <button type="button" onClick="toggleVisibility('lens-green');"> green </button>
-          <button type="button" onClick="toggleVisibility('lens-black');"> black </button>
-          <button type="button" onClick="toggleVisibility('lens-blue');"> blue </button>
-          <button type="button" onClick="toggleVisibility('lens-brown');"> brown </button>
-          <button type="button" onClick="toggleVisibility('lens-fuschia');"> fuschia </button>
-          <button type="button" onClick="toggleVisibility('lens-gray');"> gray </button>
-          <button type="button" onClick="toggleVisibility('lens-green_blue');"> green blue </button>
-          <button type="button" onClick="toggleVisibility('lens-hazel');"> hazel </button>
-          <button type="button" onClick="toggleVisibility('lens-light_blue');"> light blue </button>
-          <button type="button" onClick="toggleVisibility('lens-peach');"> peach </button>
-          <button type="button" onClick="toggleVisibility('lens-pink_tan');"> pink tan </button>
-          <button type="button" onClick="toggleVisibility('lens-red');"> red </button>
-          <button type="button" onClick="toggleVisibility('lens-sunshine');"> sunshine </button>
-          <button type="button" onClick="toggleVisibility('lens-white');"> white </button>
-          </div>
-          </div>
-          <div class="style-category" id="eyes">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-            eyes
-          </span>
-          </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <br>
-          <button type="button" onClick="toggleVisibility('eyes-classic');"> classic </button>
-          <button type="button" onClick="toggleVisibility('eyes-sparkle');"> sparkle </button>
-          <button type="button" onClick="toggleVisibility('eyes-teary');"> teary </button>
-          <button type="button" onClick="toggleVisibility('eyes-alien');"> alien </button>
-          <button type="button" onClick="toggleVisibility('eyes-amber');"> amber </button>
-          <button type="button" onClick="toggleVisibility('eyes-aqueous');"> aqueous </button>
-          <button type="button" onClick="toggleVisibility('eyes-black_ceramic');"> black ceramic </button>
-          <button type="button" onClick="toggleVisibility('eyes-black_spiral');"> black spiral </button>
-          <button type="button" onClick="toggleVisibility('eyes-bug');"> bug </button>
-          <button type="button" onClick="toggleVisibility('eyes-glowing');"> glowing </button>
-          <button type="button" onClick="toggleVisibility('eyes-gold');"> gold </button>
-          <button type="button" onClick="toggleVisibility('eyes-gray');"> gray </button>
-          <button type="button" onClick="toggleVisibility('eyes-leaf_hearts');"> leaf_hearts </button>
-          <button type="button" onClick="toggleVisibility('eyes-lilac_hearts');"> lilac hearts </button>
-          <button type="button" onClick="toggleVisibility('eyes-red_tv_hearts');"> red tv hearts </button>
-          <button type="button" onClick="toggleVisibility('eyes-sleepy');"> sleepy </button>
-          <button type="button" onClick="toggleVisibility('eyes-spectral');"> spectral </button>
-          <button type="button" onClick="toggleVisibility('eyes-tv_hearts');"> tv hearts </button>
-          <button type="button" onClick="toggleVisibility('eyes-white_spiral');"> white spiral </button>
         </div>
-        </div>
-        <div class="style-category" id="eyebrows">
-          <div style="width:10%; height: 1500; background: transparent;">
-            <span class="style-category__label">
-              eyebrows
-            </span>
-            </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('eyebrow-curious');"> curious </button>
-          <button type="button" onClick="toggleVisibility('eyebrow-thin_long');"> thin long </button>
-          <button type="button" onClick="toggleVisibility('eyebrow-thick_short');"> thick short </button>
-          <button type="button" onClick="toggleVisibility('eyebrow-raised_long');"> raised long </button>
+      <div class="style-category" id="eyebrows">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Eyebrows </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('eyebrow-curious');"> curious </button></div>
+            <div><button type="button" onClick="toggleVisibility('eyebrow-thin_long');"> thin long </button></div>
+            <div><button type="button" onClick="toggleVisibility('eyebrow-thick_short');"> thick short </button></div>
+            <div><button type="button" onClick="toggleVisibility('eyebrow-raised_long');"> raised long </button></div>
           </div>
+        </div>
+      </div>
+      <div class="style-category" id="earring">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <span class="style-category__label"> Earrings </span>
+            <div class="slides">
+              <div><button type="button" onClick="toggleVisibility('earring-sakura');"> sakura flower </button></div>
+              <div><button type="button" onClick="toggleVisibility('earring-diamond_stud');"> diamond stud </button></div>
+              <div><button type="button" onClick="toggleVisibility('earring-dual_gold_rings');"> dual gold rings </button></div>
+              <div><button type="button" onClick="toggleVisibility('earring-dual_silver_rings');"> dual silver rings </button></div>
           </div>
-        <div class="style-category" id="earring">
-        <div style="width:10%; height: 1500; background: transparent;">
-          <span class="style-category__label">
-            earring
-          </span>
+        </div>
+      </div>
+    </div>
+    <div class="grid-child 4"; background: transparent;">
+      <div class="style-category" id="face">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Face Decoration </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('face-star_heart');"> star tattoo </button></div>
+          </div>  
+        </div>
+      </div>
+      <div class="style-category" id="glasses">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Eyewear </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('glasses-blue_mottega');"> blue mottega </button></div>
           </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('earring-sakura');"> sakura flower </button>
-          <button type="button" onClick="toggleVisibility('earring-diamond_stud');"> diamond stud </button>
-          <button type="button" onClick="toggleVisibility('earring-dual_gold_rings');"> dual gold rings </button>
-          <button type="button" onClick="toggleVisibility('earring-dual_silver_rings');"> dual silver rings </button>
         </div>
-        </div>
-        <div class="style-category" id="face">
-        <div style="width:10%; height: 1500; background: transparent;">
-          <span class="style-category__label">
-            face
-          </span>
+      </div>
+      <div class="style-category" id="hairstyles">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Hairstyles </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('hair-brown_bowl');"> brown bowl </button></div>
+            <div><button type="button" onClick="toggleVisibility('hair-og_blonde');"> og blonde </button></div>
+            <div><button type="button" onClick="toggleVisibility('hair-og_blue');"> og blue </button></div>
+            <div><button type="button" onClick="toggleVisibility('hair-og_orange');"> og orange </button></div>
           </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('face-star_heart');"> star tattoo </button>
         </div>
-        </div>
-        <div class="style-category" id="glasses">
-        <div style="width:10%; height: 1500; background: transparent;">
-          <span class="style-category__label">
-            glasses
-          </span>
+      </div>
+      <div class="style-category" id="hat">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Hats and Headwear </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('hat-trucker_911');"> trucker hat 9/11 </button></div>
+            <div><button type="button" onClick="toggleVisibility('hat-fuzz_cow');"> fuzzy cow hat </button></div>
+            <div><button type="button" onClick="toggleVisibility('hat-fuzz_earmuffs');"> fuzzy earmuffs </button></div>
           </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('glasses-blue_mottega');"> blue mottega </button>
         </div>
-        </div>
-        <div class="style-category" id="hairstyles">
-        <div style="width:10%; height: 1500; background: transparent;">
-          <span class="style-category__label">
-            hair
-          </span>
+      </div>
+      <div class="style-category" id="extras">
+        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+          <span class="style-category__label"> Extras </span>
+          <div class="slides">
+            <div><button type="button" onClick="toggleVisibility('extras-stoge');"> stoge </button></div>
           </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('hair-brown_bowl');"> brown bowl </button>
-          <button type="button" onClick="toggleVisibility('hair-og_blonde');"> og blonde </button>
-          <button type="button" onClick="toggleVisibility('hair-og_blue');"> og blue </button>
-          <button type="button" onClick="toggleVisibility('hair-og_orange');"> og orange </button>
-        </div>
-        </div>
-        <div class="style-category" id="hat">
-        <div style="width:10%; height: 1500; background: transparent;">
-          <span class="style-category__label">
-            hat
-          </span>
-          </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('hat-trucker_911');"> trucker hat 9/11 </button>
-          <button type="button" onClick="toggleVisibility('hat-fuzz_cow');"> fuzz cow bucket </button>
-          <button type="button" onClick="toggleVisibility('hat-fuzz_earmuffs');"> fuzz earmuffs </button>
-        </div>
-        </div>
-        <div class="style-category" id="extras">
-        <div style="width:10%; height: 1500; background: transparent;">
-          <span class="style-category__label">
-            extras
-          </span>
-          </div>
-        <div style="flex-grow: 1; height: 1000; background: transparent;">
-          <button type="button" onClick="toggleVisibility('extras-stoge');"> stoge </button>
         </div>
       </div>
     </div>
