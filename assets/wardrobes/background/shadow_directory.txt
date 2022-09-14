@@ -1,7 +1,0 @@
-[
-	{
-		"fileName": "blue boutique.png",
-		"status": "Uploaded.",
-		"location": "https://shdw-drive.genesysgo.net/5AUZL2xHAy6GWHap4EYuaNCWUaMjFV3k3ochzk5b8MHD/blue%20boutique.png"
-	}
-]

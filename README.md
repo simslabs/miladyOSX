@@ -67,3 +67,4 @@ More info to come once the demo v1.1.0 is playable!
   - Pivotted from labelled button system to reference pictures for improved user readibility
   - Added further functionality to the Random button
   - Moved the necklace layer behind shirts
+  - Created python script to automate html element creation according to Shadow Drive directories
