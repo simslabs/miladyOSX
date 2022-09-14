@@ -1,5 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
 <script src ="index.js"></script>
 <link rel="stylesheet" href="index.css"/>
 
@@ -8,7 +14,7 @@
     <div class="grid-child 1"; background: gray;">
       <h1>My Dress Up Milady Maker Demo v1.0.1</h1>
       <section class="avi" id="avatarSection">
-        <canvas id="avatarCanvas" height="625px" width="625px"alt="Custom Milady Maker"/>
+        <canvas id="avatarCanvas" height="625px" width="625px" alt="Custom Milady Maker"/>
 
         <img src="https://shdw-drive.genesysgo.net/5AUZL2xHAy6GWHap4EYuaNCWUaMjFV3k3ochzk5b8MHD/blue%20boutique.png" id="background-1" class="background"/>
 
@@ -38,14 +44,13 @@
         <img src="https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/pink.png" id="skin-pink" class="skin"/>
         <img src="https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/tan.png" id="skin-tan" class="skin"/>
 
+        <img src="https://shdw-drive.genesysgo.net/Ga5RDWE9ASkGZrfszTXxsMNaMGArjwhCmCKxrcjMuC2q/girl%20necklace.png" id="necklace-girl" class="necklace"/>
 
         <img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/red%20puffer.png" id="shirt-red_puffer" class="shirt"/>
         <img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/ribbon%20lolita.png" id="shirt-ribbon_lolita" class="shirt"/>
         <img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/sweater%20and%20tie.png" id="shirt-sweater_tie" class="shirt"/>
         <img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/punk%20rock.png" id="shirt-punk_rock" class="shirt"/>
         <img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/jesus%20tank.png" id="shirt-jesus_tank" class="shirt"/>
-
-        <img src="https://shdw-drive.genesysgo.net/Ga5RDWE9ASkGZrfszTXxsMNaMGArjwhCmCKxrcjMuC2q/girl%20necklace.png" id="necklace-girl" class="necklace"/>
 
         <img src="https://shdw-drive.genesysgo.net/B2pd9KJfCBJsiUZm1J3bGDijiK1MH825ywYqofzuHfZD/cheeky.png" id="mouth-cheeky" class="mouths"/>
         <img src="https://shdw-drive.genesysgo.net/B2pd9KJfCBJsiUZm1J3bGDijiK1MH825ywYqofzuHfZD/flat.png" id="mouth-flat" class="mouths"/>
@@ -112,201 +117,220 @@
         <img src="https://shdw-drive.genesysgo.net/5FSMjr4ontsxUxmDjoKH1b6VBMHsaFw6Vcj1WE3CrGiJ/stoge.png" id="extras-stoge" class="extras"/>
       </section>
       <div><button id="randomButton" type="button" onClick="randomizeAvatar()"> Random </button></div>
-      <div><button id="randomButton" type="button" onClick="randomizeAvatar()"> Download </button></div>
-      <div><button id="randomButton" type="button" onClick="randomizeAvatar()"> Permanently Save </button></div>
+      <div><button id="randomButton" type="button" onClick="download()"> Download </button></div>
     </div>
     <div class="grid-child 2"; background: transparent;">
-      <div class="style-category" id = "background">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Backgrounds </span>
-          <div class="slides">
-            <div id="background-1"><button type="button" onClick="toggleVisibility('background-1');"> blue boutique </button></div>
-          </div>
-        </div>
-      </div>
-      <div class="style-category" id="auras">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Auras </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_1');" > aphroditian red </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_2');" > aphroditian orange </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_3');" > aphroditian yellow </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_4');" > aphroditian green </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_5');" > aphroditian blue </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_6');" > aphroditian purple </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_dark_7');" > aphroditian pink </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_hipster');" > aphroditian hipster </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-aphroditian_neptune');" > aphroditian neptune </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_1');" > apollonian red </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_2');" > apollonian orange </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_3');" > apollonian yellow </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_4');" > apollonian green </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_5');" > apollonian blue </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_6');" > apollonian purple </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_dark_7');" > apollonian pink </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_hipster');" > apollonian hipster </button></div>
-            <div><button type="button" onClick="toggleVisibility('aura-apollonian_neptune');" > apollonian neptune </button></div>
-          </div>
-        </div>
-      </div>
-      <div class="style-category" id="skin">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Skin Tones </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('skin-pale');"> pale </button></div>
-            <div><button type="button" onClick="toggleVisibility('skin-alien');"> alien </button></div>
-            <div><button type="button" onClick="toggleVisibility('skin-brown');"> brown </button></div>
-            <div><button type="button" onClick="toggleVisibility('skin-clay');"> clay </button></div>
-            <div><button type="button" onClick="toggleVisibility('skin-pink');"> pink </button></div>
-            <div><button type="button" onClick="toggleVisibility('skin-tan');"> tan </button></div>
-          </div>
-        </div>
-      </div>
-      <div class="style-category" id="shirt">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Shirts and Tops </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('shirt-punk_rock');"> punk rock </button></div>
-            <div><button type="button" onClick="toggleVisibility('shirt-jesus_tank');"> jesus tank </button></div>
-            <div><button type="button" onClick="toggleVisibility('shirt-red_puffer');"> red puffer </button></div>
-            <div><button type="button" onClick="toggleVisibility('shirt-sweater_tie');"> sweater tie </button></div>
-            <div><button type="button" onClick="toggleVisibility('shirt-ribbon_lolita');"> ribbon lolita </button></div>
-          </div>
-        </div>
-      </div>
-      <div class="style-category" id="necklace">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Necklaces </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('necklace-girl');"> girl </button></div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="grid-child 3"; background: transparent;">
-      <div class="style-category" id="mouths">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Mouths </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('mouth-smile');"> smile </button></div>
-            <div><button type="button" onClick="toggleVisibility('mouth-cheeky');"> cheeky </button></div>
-            <div><button type="button" onClick="toggleVisibility('mouth-flat');"> flat </button></div>
-          </div>
-        </div>
-      </div>
-        <div class="style-category" id="lens">
+      <div class="tabs">
+        <input type="radio" name="tabs" id="r1" checked="checked">
+        <label for="r1"> Backgrounds </label>
+        <div class="tab">
           <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Eye Lens Color </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('lens-green');"> green </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-black');"> black </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-blue');"> blue </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-brown');"> brown </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-fuschia');"> fuschia </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-gray');"> gray </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-green_blue');"> green blue </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-hazel');"> hazel </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-light_blue');"> light blue </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-peach');"> peach </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-pink_tan');"> pink tan </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-red');"> red </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-sunshine');"> sunshine </button></div>
-            <div><button type="button" onClick="toggleVisibility('lens-white');"> white </button></div>
-          </div>
-        </div>
-      </div>
-        <div class="style-category" id="eyes">
-          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Eye Types </span>
             <div class="slides">
-              <div><button type="button" onClick="toggleVisibility('eyes-classic');"> classic </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-sparkle');"> sparkle </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-teary');"> teary </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-alien');"> alien </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-amber');"> amber </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-aqueous');"> aqueous </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-black_ceramic');"> black ceramic </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-black_spiral');"> black spiral </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-bug');"> bug </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-glowing');"> glowing </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-gold');"> gold </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-gray');"> gray </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-leaf_hearts');"> leaf_hearts </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-lilac_hearts');"> lilac hearts </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-red_tv_hearts');"> red tv hearts </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-sleepy');"> sleepy </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-spectral');"> spectral </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-tv_hearts');"> tv hearts </button></div>
-              <div><button type="button" onClick="toggleVisibility('eyes-white_spiral');"> white spiral </button></div>
+              <div id onClick="toggleVisibility('background-1');"><img src="https://shdw-drive.genesysgo.net/5AUZL2xHAy6GWHap4EYuaNCWUaMjFV3k3ochzk5b8MHD/blue%20boutique.png"/></div>
             </div>
           </div>
         </div>
-      <div class="style-category" id="eyebrows">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Eyebrows </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('eyebrow-curious');"> curious </button></div>
-            <div><button type="button" onClick="toggleVisibility('eyebrow-thin_long');"> thin long </button></div>
-            <div><button type="button" onClick="toggleVisibility('eyebrow-thick_short');"> thick short </button></div>
-            <div><button type="button" onClick="toggleVisibility('eyebrow-raised_long');"> raised long </button></div>
-          </div>
-        </div>
-      </div>
-      <div class="style-category" id="earring">
+        <input type="radio" name="tabs" id="r2">
+        <label for="r2"> Auras </label>
+        <div class="tab">
           <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-            <span class="style-category__label"> Earrings </span>
+            <h1> Aphroditian Dark </h1>
             <div class="slides">
-              <div><button type="button" onClick="toggleVisibility('earring-sakura');"> sakura flower </button></div>
-              <div><button type="button" onClick="toggleVisibility('earring-diamond_stud');"> diamond stud </button></div>
-              <div><button type="button" onClick="toggleVisibility('earring-dual_gold_rings');"> dual gold rings </button></div>
-              <div><button type="button" onClick="toggleVisibility('earring-dual_silver_rings');"> dual silver rings </button></div>
+              <div onClick="toggleVisibility('aura-aphroditian_dark_1');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_1.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_dark_2');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_2.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_dark_3');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_3.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_dark_4');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_4.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_dark_5');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_5.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_dark_6');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_6.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_dark_7');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_dark_7.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_hipster');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_hipster.png"/></div>
+              <div onClick="toggleVisibility('aura-aphroditian_neptune');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/aphroditian_neptune.png"/></div>
+            </div>
+            <h1><br> Apollonian Dark </h1>
+            <div class="slides">
+              <div onClick="toggleVisibility('aura-apollonian_dark_1');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_1.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_dark_2');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_2.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_dark_3');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_3.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_dark_4');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_4.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_dark_5');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_5.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_dark_6');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_6.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_dark_7');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_dark_7.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_hipster');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_hipster.png"/></div>
+              <div onClick="toggleVisibility('aura-apollonian_neptune');" ><img src="https://shdw-drive.genesysgo.net/BE6tS4xnHnEbjF5ED6xEWZGeTA9De7upPiQC1ue7TnT6/apollonian_neptune.png"/></div>
+            </div>
           </div>
         </div>
-      </div>
-    </div>
-    <div class="grid-child 4"; background: transparent;">
-      <div class="style-category" id="face">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Face Decoration </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('face-star_heart');"> star tattoo </button></div>
+        <input type="radio" name="tabs" id="r3">
+        <label for="r3"> Skin Tones </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('skin-pale');"><img src="https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/pale.png"/></div>
+              <div onClick="toggleVisibility('skin-brown');"><img src="https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/brown.png"/></div>
+              <div onClick="toggleVisibility('skin-clay');"><img src="https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/clay.png"/></div>
+              <div onClick="toggleVisibility('skin-pink');"><img src="https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/pink.png"/></div>
+              <div onClick="toggleVisibility('skin-tan');"><img src="https://shdw-drive.genesysgo.net/8pJ2PZrrT2XpbXzktSkmGXUUa9G84MR3ctVa1kp7sDAq/tan.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="necklace">
+        <label for="necklace"> Necklaces </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('necklace-girl');"><img src="https://shdw-drive.genesysgo.net/Ga5RDWE9ASkGZrfszTXxsMNaMGArjwhCmCKxrcjMuC2q/girl%20necklace.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="shirt">
+        <label for="shirt"> Shirts and Tops </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('shirt-punk_rock');"><img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/punk%20rock.png"/></div>
+              <div onClick="toggleVisibility('shirt-jesus_tank');"><img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/jesus%20tank.png"/></div>
+              <div onClick="toggleVisibility('shirt-red_puffer');"><img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/red%20puffer.png"/></div>
+              <div onClick="toggleVisibility('shirt-sweater_tie');"><img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/sweater%20and%20tie.png"/></div>
+              <div onClick="toggleVisibility('shirt-ribbon_lolita');"><img src="https://shdw-drive.genesysgo.net/BVcrWigpnQV8vjGZp3aizsjgxVVuNVNygscdbsZProWz/ribbon%20lolita.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="mouth">
+        <label for="mouth"> Mouths </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('mouth-smile');"><img src="https://shdw-drive.genesysgo.net/B2pd9KJfCBJsiUZm1J3bGDijiK1MH825ywYqofzuHfZD/smile.png"/></div>
+              <div onClick="toggleVisibility('mouth-cheeky');"><img src="https://shdw-drive.genesysgo.net/B2pd9KJfCBJsiUZm1J3bGDijiK1MH825ywYqofzuHfZD/cheeky.png"/></div>
+              <div onClick="toggleVisibility('mouth-flat');"><img src="https://shdw-drive.genesysgo.net/B2pd9KJfCBJsiUZm1J3bGDijiK1MH825ywYqofzuHfZD/flat.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="lens">
+        <label for="lens"> Eye Color </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('lens-green');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/green%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-black');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/black%20lenspng"/></div>
+              <div onClick="toggleVisibility('lens-blue');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/blue%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-brown');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/brown%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-fuschia');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/fuschia%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-gray');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/gray%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-green_blue');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/green%20blue%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-hazel');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/hazel%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-light_blue');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/light%20blue%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-peach');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/peach%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-pink_tan');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/pink%20tan%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-red');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/red%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-sunshine');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/sunshine%20lens.png"/></div>
+              <div onClick="toggleVisibility('lens-white');"><img src="https://shdw-drive.genesysgo.net/5aq1d4pbjJ57TWayRGsJ1EP513ra4wRWLTPbmnNXFyEg/white%20lens.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="eyes">
+        <label for="eyes"> Eyes </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <h1> Milady Maker </h1>
+            <div class="slides">
+              <div onClick="toggleVisibility('eyes-classic');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/classic.png"/></div>
+              <div onClick="toggleVisibility('eyes-sparkle');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/sparkle.png"/></div>
+              <div onClick="toggleVisibility('eyes-teary');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/teary.png"/></div>
+              <div onClick="toggleVisibility('eyes-sleepy');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/sleepy.png"/></div>
+            </div>
+            <h1><br> Milady Aura </h1>
+            <div class="slides">
+              <div onClick="toggleVisibility('eyes-alien');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/alien.png"/></div>
+              <div onClick="toggleVisibility('eyes-amber');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/amber.png"/></div>
+              <div onClick="toggleVisibility('eyes-aqueous');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/aqueous.png"/></div>
+              <div onClick="toggleVisibility('eyes-black_ceramic');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/black_ceramic.png"/></div>
+              <div onClick="toggleVisibility('eyes-black_spiral');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/black_spiral.png"/></div>
+              <div onClick="toggleVisibility('eyes-bug');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/bug.png"/></div>
+              <div onClick="toggleVisibility('eyes-glowing');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/glowing.png"/></div>
+              <div onClick="toggleVisibility('eyes-gold');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/gold.png"/></div>
+              <div onClick="toggleVisibility('eyes-gray');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/gray.png"/></div>
+              <div onClick="toggleVisibility('eyes-leaf_hearts');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/leaf_heartspng"/></div>
+              <div onClick="toggleVisibility('eyes-lilac_hearts');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/lilac_hearts.png"/></div>
+              <div onClick="toggleVisibility('eyes-red_tv_hearts');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/red_tv_heartspng"/></div>
+              <div onClick="toggleVisibility('eyes-spectral');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/spectral.png"/></div>
+              <div onClick="toggleVisibility('eyes-tv_hearts');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/tv_hearts.png"/></div>
+              <div onClick="toggleVisibility('eyes-white_spiral');"><img src="https://shdw-drive.genesysgo.net/6dHmeNNevSd5aEySPTMS4umX873yLyduV9rj67d8XmMR/white_spiral.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="eyebrow">
+        <label for="eyebrow"> Eyebrows </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('eyebrow-curious');"><img src="https://shdw-drive.genesysgo.net/DC4tYxHHqJf7mbFLhGMH7g7Xvk1dTPAhwbQHM2aLDjkR/curious.png"/></div>
+              <div onClick="toggleVisibility('eyebrow-thin_long');"><img src="https://shdw-drive.genesysgo.net/DC4tYxHHqJf7mbFLhGMH7g7Xvk1dTPAhwbQHM2aLDjkR/thin%20elongatedpng"/></div>
+              <div onClick="toggleVisibility('eyebrow-thick_short');"><img src="https://shdw-drive.genesysgo.net/DC4tYxHHqJf7mbFLhGMH7g7Xvk1dTPAhwbQHM2aLDjkR/thick%20short.png"/></div>
+              <div onClick="toggleVisibility('eyebrow-raised_long');"><img src="https://shdw-drive.genesysgo.net/DC4tYxHHqJf7mbFLhGMH7g7Xvk1dTPAhwbQHM2aLDjkR/raised%20elongated.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="earring">
+        <label for="earring"> Earrings </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('earring-sakura');"><img src="https://shdw-drive.genesysgo.net/D974uWtQ1HGHFdBjKps7uaBo7NPEGXiJSxj7c7pQNdA/sakura%20flower.png"/></div>
+              <div onClick="toggleVisibility('earring-diamond_stud');"><img src="https://shdw-drive.genesysgo.net/D974uWtQ1HGHFdBjKps7uaBo7NPEGXiJSxj7c7pQNdA/diamond%20stud.png"/></div>
+              <div onClick="toggleVisibility('earring-dual_gold_rings');"><img src="https://shdw-drive.genesysgo.net/D974uWtQ1HGHFdBjKps7uaBo7NPEGXiJSxj7c7pQNdA/dual%20gold%20rings.png"/></div>
+              <div onClick="toggleVisibility('earring-dual_silver_rings');"><img src="https://shdw-drive.genesysgo.net/D974uWtQ1HGHFdBjKps7uaBo7NPEGXiJSxj7c7pQNdA/dual%20silver%20rings.png"/></div>
+            </div>
+          </div>
+        </div>
+        <input type="radio" name="tabs" id="face">
+        <label for="face"> Face Decoration </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('face-star_heart');"><img src="https://shdw-drive.genesysgo.net/HcqrmwB7AUiVXhcpGFHN8A96bUGmqwdehf8nXekBH7M8/star%20heart%20tattoo.png"/></div>
+            </div>
           </div>  
         </div>
-      </div>
-      <div class="style-category" id="glasses">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Eyewear </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('glasses-blue_mottega');"> blue mottega </button></div>
+        <input type="radio" name="tabs" id="glasses">
+        <label for="glasses"> Eyewear </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('glasses-blue_mottega');"><img src="https://shdw-drive.genesysgo.net/H9dEwDk9G6QLogegq16tk1YS5Tuy4bMzUsFEHR1NoMvw/blue%20mottega%20gsunglasses.png"/></div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="style-category" id="hairstyles">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Hairstyles </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('hair-brown_bowl');"> brown bowl </button></div>
-            <div><button type="button" onClick="toggleVisibility('hair-og_blonde');"> og blonde </button></div>
-            <div><button type="button" onClick="toggleVisibility('hair-og_blue');"> og blue </button></div>
-            <div><button type="button" onClick="toggleVisibility('hair-og_orange');"> og orange </button></div>
+        <input type="radio" name="tabs" id="hairstyles">
+        <label for="hairstyles"> Hairstyles </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('hair-brown_bowl');"><img src="https://shdw-drive.genesysgo.net/BbE42mmn3cPzt4hNjAxoBZt77Zpv8GDWCWQDJ544gNqE/brown%20bowl%20hair.png"/></div>
+              <div onClick="toggleVisibility('hair-og_blonde');"><img src="https://shdw-drive.genesysgo.net/BbE42mmn3cPzt4hNjAxoBZt77Zpv8GDWCWQDJ544gNqE/og%20blonde.png"/></div>
+              <div onClick="toggleVisibility('hair-og_blue');"><img src="https://shdw-drive.genesysgo.net/BbE42mmn3cPzt4hNjAxoBZt77Zpv8GDWCWQDJ544gNqE/og%20blue.png"/></div>
+              <div onClick="toggleVisibility('hair-og_orange');"><img src="https://shdw-drive.genesysgo.net/BbE42mmn3cPzt4hNjAxoBZt77Zpv8GDWCWQDJ544gNqE/og%20orange.png"/></div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="style-category" id="hat">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Hats and Headwear </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('hat-trucker_911');"> trucker hat 9/11 </button></div>
-            <div><button type="button" onClick="toggleVisibility('hat-fuzz_cow');"> fuzzy cow hat </button></div>
-            <div><button type="button" onClick="toggleVisibility('hat-fuzz_earmuffs');"> fuzzy earmuffs </button></div>
+        <input type="radio" name="tabs" id="hat">
+        <label for="hat"> Hats </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('hat-trucker_911');"><img src="https://shdw-drive.genesysgo.net/CFpBYrfxHCK8EeT3uHRtFsFA5AvNaufyzYyiFPLBaccx/trucker%20hat%20911.png"/></div>
+              <div onClick="toggleVisibility('hat-fuzz_cow');"><img src="https://shdw-drive.genesysgo.net/CFpBYrfxHCK8EeT3uHRtFsFA5AvNaufyzYyiFPLBaccx/fuzz%20cow%20bucket.png"/></div>
+              <div onClick="toggleVisibility('hat-fuzz_earmuffs');"><img src="https://shdw-drive.genesysgo.net/CFpBYrfxHCK8EeT3uHRtFsFA5AvNaufyzYyiFPLBaccx/fuzz%20earmuffs.png"/></div>
+            </div>
           </div>
         </div>
-      </div>
-      <div class="style-category" id="extras">
-        <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
-          <span class="style-category__label"> Extras </span>
-          <div class="slides">
-            <div><button type="button" onClick="toggleVisibility('extras-stoge');"> stoge </button></div>
+        <input type="radio" name="tabs" id="extra">
+        <label for="extra"> Extras </label>
+        <div class="tab">
+          <div class="slider" style="flex-grow: 0.7; height: 300; background: transparent;">
+            <div class="slides">
+              <div onClick="toggleVisibility('extras-stoge');"><img src="https://shdw-drive.genesysgo.net/5FSMjr4ontsxUxmDjoKH1b6VBMHsaFw6Vcj1WE3CrGiJ/stoge.png"/></div>
+            </div>
           </div>
         </div>
       </div>
