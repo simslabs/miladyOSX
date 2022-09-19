@@ -1,4 +1,4 @@
-# Milady OSX :white-heart:
+# Milady OSX :white_heart:
 An avant-cozy browser operating system designed for Milady community assets. Front end is built using postmodern web standards and vanilla ice cream sandwiches to replicate the feel of macOS Big Sur. All assets used in this network experience are and will be permanently maintained on the [Shadow Drive](https://shdw.genesysgo.com/), a decentralized storage system built leveraging Solana's Proof of History consensus. 
 
 Special thank yous to the teams behind [Milady](https://twitter.com/miladymaker), and [Milady Aura](https://twitter.com/miladyauras) for adopting the Viral Public License and making their assets easily accessible. 
