@@ -1,239 +1,646 @@
-* {
-  font-family: helvetica;
-  box-sizing: border-box;
-  margin: 0; padding: 0;
+/* HomePage-Box-css-(Start) */
+@font-face {
+    font-family: 'apple';
+    src: url('./font/appleFont/SF-Pro.ttf');
 }
 
-#avatarSection {
-  position: static;
-  margin: auto;
-  height:625px;
-  width:500px;
-  margin: 2%;
+*{
+    box-sizing: border-box;
+    cursor: url("./cursor/macOS.cur"),auto;
 }
 
-.avi img {
-  visibility: hidden;
-  position:absolute;
-  width: 500px;
-  height: 625px;
-}
-
-canvas {
-  position:absolute;
-}
-
-button {
-  position: relative;
-  display: inline-block;
-  width: auto; height: auto;
-  background: rgb(36, 33, 33);
-  color:rgb(226, 217, 217);
-  border: none;
-  cursor: pointer;
-  justify-content: center;
-  margin: 0px 10px 10px;
-  min-width: 120px;
-  min-height: 30px;
-}
-
-#randomButton {
-  background: rgb(36, 33, 33);
-  display:block;
-  color:rgb(226, 217, 217);
-  margin-top: 1em;
-  margin-left:auto;
-  margin-right:auto;
-}
-
-
-h1 {
-  padding: 20px 0;
-  font-size: 22px;
-  text-align: center;
-  font-weight: bold;
-  color: rgb(0, 0, 0);
-}
-h2 {
-  padding: 20px 0;
-  font-size: 16px;
-  text-align: center;
-  font-weight: bold;
-  color: rgb(0, 0, 0);
-}
-footer{
-    margin-top: auto;
-}
 body {
-  background: linear-gradient(-45deg, #4b4949, #239660, #4bd46d, #65b669);
-  background-size: 400% 400%;
-  height: 100vh;
+    margin: 0px;
+    /* cursor: url("./Normal\ Select.cur"),auto; */
 }
 
-.grid-container {
-  display: grid;
-  grid-template-columns: 0.3fr 1fr;
-  grid-gap: 33px;
-}
-
-#links {
-  color:gray;
-  width:500px;;
-  display:block;
-  position:relative;
-  /* margin:auto; */
-  font-size: .8rem;
-}
-  
-.slider {
-  width: 1200px;
-  text-align: left;
+.main-body{
+    width: 100vw;
+    height: 100vh;
+    /* border: 2px solid red; */
+  background-image: url("./wallpaper/MontereyLight.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   overflow: hidden;
 }
-  
-.slides {
-  display: flex;
-  
-  overflow-x: auto;
-  scroll-snap-type: x mandatory;
-  
-  scroll-behavior: smooth;
-  -webkit-overflow-scrolling: touch;
-  
-  /*
-  scroll-snap-points-x: repeat(300px);
-  scroll-snap-type: mandatory;
-  */
-}
-.slides::-webkit-scrollbar {
-  width: 10px;
-  height: 15px;
-}
-.slides::-webkit-scrollbar-thumb {
-  background: black;
-  border-radius: 10px;
-}
-.slides::-webkit-scrollbar-track {
-  background: transparent;
-}
-.slides > div {
-  scroll-snap-align: start;
-  flex-shrink: 0;
-  width: 200px;
-  height: 240px;
-  margin-right: 20px;
-  border-radius: 10px;
-  background: rgba(65, 66, 63, 0.05);
-  transform-origin: center center;
-  transform: scale(1);
-  transition: transform 0.5s;
-  position: relative;
-  
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 100px;
-}
-
-.slides > div:target {
-  transform:scale(0.8);
-  background: rgba(247, 211, 10, 0.74);
-}
-
-.slides > div:active {
-  background: rgba(247, 211, 10, 0.74);
-}
-
-img {
-  object-fit: cover;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.slider > a {
-  display: inline-flex;
-  width: 1.5rem;
-  height: 1.5rem;
-  background: rgba(228, 228, 228, 0);
-  text-decoration: none;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  margin: 0 0 0.5rem 0;
-  position: relative;
-}
-.slider > a:active {
-  top: 1px;
-}
-.slider > a:focus {
-  background: #000;
-}
 
 
-.tabs {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
+
+/* HomePage Title-Box-Css-(Start) */
+
+.title-container{
+    height: 2.2%;
+    background-color:rgba(255, 255, 255, 0.384); 
 }
 
-.tabs label {
-  -webkit-box-ordinal-group: 2;
-  -webkit-order: 1;
-  -ms-flex-order: 1;
-  order: 1;
-  display: block;
-  padding: 1rem 2rem;
-  margin-right: 0.2rem;
-  cursor: pointer;
-  background: #8383854b;
-  font-weight: bold;
-  -webkit-transition: background ease 0.2s;
-  transition: background ease 0.2s;
+.title-left-container{
+    float: left;
+    position: relative;
+    top: 5%;
+    height: 90%;
+    width:50%;
+    display: flex;
+    align-items:center;
 }
 
-.tabs .tab {
-  -webkit-box-ordinal-group: 100;
-  -webkit-order: 99;
-  -ms-flex-order: 99;
-  order: 99;
-  -webkit-box-flex: 1;
-  -webkit-flex-grow: 1;
-  -ms-flex-positive: 1;
-  flex-grow: 1;
-  width: 100%;
-  display: none;
-  padding: 1rem;
-  background: #fafafa15;
+.miladyLogo{
+    height: 85%;
+    margin-left: 2.2%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
 }
 
-.tabs input[type="radio"] {
-  position: absolute;
-  opacity: 0;
+.miladyLogo img{
+    width: 1.75vh;
+    padding: 1px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    object-fit: contain;
+    transition: all 0.3s;
 }
 
-.tabs input[type="radio"]:checked + label { background: rgba(110, 30, 16, 0.411); }
-
-.tabs input[type="radio"]:checked + label + .tab { display: block; }
- @media (max-width: 105em) {
-
-.tabs .tab,  .tabs label {
-  -webkit-box-ordinal-group: NaN;
-  -webkit-order: initial;
-  -ms-flex-order: initial;
-  order: initial;
+.homePageFinderText{
+    height: 85%;
+    margin-left: 2.2%;
+    display: flex;
+    padding: 1px;
+    align-items:center;
+    justify-content: center;
+    font-family: apple;
+    font-size:1.75vh;
+    font-weight:bold;
+    color: white;
+    transition: all 0.3s;
 }
 
-.tabs label {
-  width: 100%;
-  margin-right: 0;
-  margin-top: 0.2rem;
-}
+.homePageTitleInnerText{
+    height: 85%;
+    margin-left:2.5%;
+    display: flex;
+    padding: 1px;
+    align-items:center;
+    justify-content: center;
+    font-family: apple;
+    font-size:1.75vh;
+    font-weight: 500;
+    color: white;
+    transition: all 0.3s;
+ 
 }
 
+.title-right-container{
+    position: relative;
+    top: 5%;
+    height: 90%;
+    width:50%;
+    display: flex;
+    justify-content: flex-end;
+    align-items:center;
+}
+
+.homePage-title-right-icon{
+    margin-right: 2.2%;
+    height: 85%;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    transition: all 0.3s;
+
+}
+
+.homePage-title-right-icon img{
+    width: 1.75vh;
+    padding: 1px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    object-fit: contain;
+    transition: all 0.3s;
+}
+
+.homePageTitleDateTime{
+    height: 85%;
+    margin-right:2.5%;
+    display: flex;
+    padding: 1px;
+    align-items:center;
+    justify-content: center;
+    font-family: apple;
+    font-size:1.75vh;
+    font-weight: 500;
+    color: white;
+    transition: all 0.3s;
+}
+
+/* HomePage Title-Box-Css-(Over) */
+
+
+/* HomePage Screen-Box-Css-(Start) */
+
+.screenContainer{
+    height: 85%;
+    width: 100%;
+    /* border: 2px solid yellow; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* HomePage launchPad-Box-Css-(Start) */ 
+
+.launchPad-container{
+    position: fixed;
+    height:100vh;
+    width: 100vw;
+    top: 0px;
+    backdrop-filter: blur(10px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    animation-name: lp-start-ani;
+    animation-duration: 0.7s;
+    animation-iteration-count: 1s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+    z-index: 95;
+    background-color:rgb(10, 10, 10,0.2);
+}
+
+@keyframes lp-start-ani{
+    0%{opacity: 0.0;}
+    5%{opacity: 0.4;}   
+    40%{opacity: 0.8;}
+    70%{opacity: 1;}
+}
+
+.lp-exit-ani{
+    animation-name: lp-exit-ani;
+    animation-duration: 0.7s;
+    animation-iteration-count: 1s;
+    animation-fill-mode: forwards;
+    animation-timing-function: linear;
+}
+
+@keyframes lp-exit-ani{
+    0%{opacity: 1;}
+    5%{opacity: 0.8;}   
+    40%{opacity: 0.4;}
+    70%{opacity: 0;}
+
+}
+
+.lpSearch{
+    height: 9%;
+    width: 80%;
+    /* border: 2px solid yellow; */
+    transition: all 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.lpSearch input{
+    height: 50%;
+    width: 20%;
+    border: 1px solid white;
+    border-radius: 0.6vw;
+    outline: none;
+    backdrop-filter:blur(15px);
+    background-color: transparent;
+    font-size: 1.3vw;
+    text-align: center;
+    font-weight: 300;
+    color: white;
+    font-family: apple;
+}
+.lpSearch input::placeholder{
+    color: white;
+}
+/* launchPad appBOxOptions-css-(start) */
+
+.lpApps{
+    height: 85%;
+    width: 80%;
+    /* border: 2px solid cyan; */
+    padding: 3%;
+    padding-top: 0.5vh;
+    padding-bottom: 12vh;
+    transition: all 0.3s;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding-left: 110px;
+}
+
+.lpApps-container{
+    height: 20vh;
+    width :11vw;
+    /* border: 3px solid blue; */
+    transition: all 0.3s;
+    margin-bottom: 5vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.lpApps-icon{
+    /* border: 1px solid cyan; */
+    height: 80%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s;
+}
+
+.lpApps-icon img{
+    height: 65%;
+} 
+
+
+.launchpad-icon-Text{
+    height: 20%;
+    width:80%;
+    font-size:2.2vh;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid; */
+    color: white;
+    font-weight: 499;
+    font-family: apple;
+    transition: all 0.3s;
+}
+
+.dockContainer{
+    height: 8%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+}
+
+.dock{
+    position: relative;
+    padding: 3px 3px 3px 3px;
+    height: 95%;
+    background-color: rgb(255,255,255,0.3);
+    border-radius: 10px;
+    border: 1px solid rgb(255,255,255,0.2);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index:100;
+}
+.dockIcon-editable{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dockIcon-non-editable{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid; */
+}
+.dockIcon{
+    /* border: 1px solid; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.dockIcon>img{
+    width:6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s;
+    transform-origin: 50% 100%; 
+}
+
+
+.active-dot{
+    height:2px;
+    width: 2px;   
+    /* color: white; */
+    background-color: white;
+    border-radius: 50%;
+    /* border: 1px solid; */
+}
+
+.dockIcon img:hover {
+    transform: scale(1.3);
+    margin: 0 0.5em;
+}
+
+@keyframes box{
+    50%{margin-bottom: 3rem;}
+}
+
+/*HomePage mac dock--Css-(Over) */
+
+/* HomePage-Box-css-(Start) */
+
+
+
+
+
+
+
+
+
+
+
+
+/* appSite-Box-Box-Css-(Start) - appBox(Skeleton-AppBox) */ 
+
+.box-box{
+    position: fixed;
+    top: 5vh;
+    height: 82vh;
+    width: 82vw;
+    /* border: 5px solid blue; */
+}
+
+.box-container{
+    transition: all 0.3s;
+    height: 100%;
+    width: 100%;
+    /* border: 2px solid; */
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+    animation-name: box-start-ani;
+    animation-duration:0.8s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+/* appSiteBox-Animation-css(Start)*/
+
+@keyframes box-start-ani {
+    0%{margin-top: 130vh;
+       width: 0px;
+        margin-left: 50%;
+    }
+    35%{margin-top: 130vh;
+        width: 10px;
+        margin-left: 50%;
+    }
+    70%{margin-top: 130vh;
+        width: 40px;
+        margin-left: 50%;
+    }
+}
+
+.box-exit-ani{
+    animation-name: box-exit-ani;
+    animation-duration:0.8s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-direction: reverse;
+}
+@keyframes box-exit-ani {
+    0%{margin-top: 130vh;
+        width: 0px;
+         margin-right: 1%;
+     }
+     35%{margin-top: 130vh;
+         width: 10px;
+         margin-right: 1%;
+     }
+     70%{margin-top: 130vh;
+         width: 40px;
+         margin-right: 1%;
+     }
+}
+
+/* appSiteBox-Animation-css(Over)*/
+
+/* mac-dialogBox title-Area-start */
+.mac-dialogBox-title{
+    height: 4%;
+    width: 100%;
+    background: rgb(226,225,226);
+    /* border-bottom: 2px solid; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mac-dialogBox-title-boxText{
+    width: 94%;
+    font-family: apple;
+    font-weight: 600;
+    font-size: 2.2vh;
+    /* color: white; */
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 8%;
+    outline: none;
+}
+
+.mac-dialogBox-title-3option-box{
+    height: 100%;
+    width: 8%;
+    /* border: 1px solid; */
+    display: flex;
+    justify-content:"center";
+    align-items: center;
+}
+
+.mac-dialogBox-title-icon1{
+    margin-left: 18%;
+    height: 12px;
+   width: 12px;
+   background-color: rgb(222,53,11);
+   border-radius: 50%;
+   /* border: 2px solid; */
+}
+
+.mac-dialogBox-title-icon2{
+    margin-left: 7%;
+    height: 12px;
+    width: 12px; 
+    background-color:rgb(255,171,1);
+    border-radius: 50%;
+    /* border: 2px solid; */
+    
+}
+
+.mac-dialogBox-title-icon3{
+    margin-left: 7%;
+    height: 12px;
+   width: 12px;
+   background-color: rgb(54,179,126);
+    /*border: 1px solid rgb(44,204,59);*/
+    border-radius: 50%;
+    /* border: 2px solid; */
+}   
+
+/* mac-dialogBox title-Area-Over */
+/* appSiteBox-Box-Css-(Over) - appBox(Skeleton-AppBox) */ 
+
+  /* --------------------- Media Screen --------------------- */
+
+@media screen and (max-width: 770px){
+    
+.mac-dialogBox-title-icon1{
+    margin-left: 18%;
+    height: 8px;
+   width: 12px;
+   background-color: rgb(222,53,11);
+   border-radius: 50%;
+   /* border: 2px solid; */
+}
+
+.mac-dialogBox-title-icon2{
+    margin-left: 7%;
+    height: 8px;
+    width: 12px; 
+    background-color:rgb(255,171,1);
+    border-radius: 50%;
+    /* border: 2px solid; */
+    
+}
+
+.mac-dialogBox-title-icon3{
+    margin-left: 7%;
+    height: 8px;
+   width: 12px;
+   background-color: rgb(54,179,126);
+    /*border: 1px solid rgb(44,204,59);*/
+    border-radius: 50%;
+    /* border: 2px solid; */
+}  
+    .lpApps{
+        height: 65%;
+        width: 100%;
+        /* border: 2px solid cyan; */
+        padding: 3%;
+        transition: all 0.3s;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    
+    .lpApps-container{
+        height: 17vw;
+        width :14vh;
+        /* border: 3px solid blue; */
+        flex-direction: column;
+        align-items: center;
+        transition: all 0.3s;
+        margin-bottom: 3vh;
+        /* transform: translate(+15%); */
+    }
+    .lpApps-icon{
+        /* border: 1px solid cyan; */
+        height: 80%;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        transition: all 0.3s;
+    }
+    .lpApps-icon img{
+        height: 100%;
+        transition: all 0.3s;
+   } 
+   .launchpad-icon-Text{
+    height: 20%;
+    width:80%;
+    font-size:2vw;
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid red; */
+    color: white;
+    font-weight: 499;
+    font-family: apple;
+    transition: all 0.3s;
+    }
+
+    .dockIcon img{
+    width:9vw;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    transition: all 0.3s;
+    transform-origin: 50% 100%;  
+
+    }
+
+    .miladyLogo img{
+        width: 2.6vw;
+        padding: 1px;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        transition: all 0.3s;
+    }
+
+    .homePage-title-right-icon img{
+        width: 2.6vw;
+        padding: 1px;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        transition: all 0.3s;
+    }
+
+    .homePageFinderText{
+        height: 85%;
+        margin-left: 2.2%;
+        display: flex;
+        padding: 1px;
+        align-items:center;
+        justify-content: center;
+        font-family: apple;
+        font-size:2.13vw;
+        font-weight:bold;
+        color: white;
+        transition: all 0.3s;
+    }
+
+    .homePageTitleInnerText{
+        height: 85%;
+        margin-left:2.5%;
+        display: flex;
+        padding: 1px;
+        align-items:center;
+        justify-content: center;
+        font-family: apple;
+        font-size:2.13vw;
+        font-weight: 500;
+        color: white;
+        transition: all 0.3s;
+
+    }
+
+    .homePageTitleDateTime{
+        height: 85%;
+        margin-right:2.5%;
+        display: flex;
+        padding: 1px;
+        align-items:center;
+        justify-content: center;
+        font-family: apple;
+        font-size:2.13vw;
+        font-weight: 500;
+        color: white;
+        transition: all 0.3s;
+    }
+}
